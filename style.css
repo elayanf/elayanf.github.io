@@ -196,7 +196,6 @@ footer {
         display: block;
         width: 100%;
     }
-    
 
     #about-text {
         text-align: left;
@@ -204,5 +203,14 @@ footer {
 
     td img{
         width: 350%;
+    }
+
+    #return{
+        margin-bottom: 50%;
+    }
+
+    #return a {
+        display: inline;
+        padding-bottom: 10px;
     }
 }
