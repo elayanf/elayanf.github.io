@@ -127,13 +127,43 @@ td img {
     text-underline-offset: 5px;
 }
 
+#contact-table{
+    text-align: center;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    table-layout: fixed;
+    width: 75%;
+}
+
+#contact-table td{
+    width: 5%;
+}
+
+#contact a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#contact p{
+    text-decoration: underline;
+    text-underline-offset: 5px;
+}
+
+footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9em;
+    color: #c4c4c4;
+    background-color: #233132;
+}
+
 @media (max-width: 600px) {
     #links {
         flex-wrap: wrap;
     }
 
     div a {
-        margin: 0 2%;
+        margin: 0 0.5%;
     }
 
     section {
@@ -141,18 +171,32 @@ td img {
         margin-right: 5%;
     }
 
-    table {
+    #about-table {
         display: block;
     }
 
-    tr {
+    #about-table tr {
         display: block;
     }
 
-    td {
+    #about-table td {
         display: block;
         width: 100%;
     }
+
+    #contact-table {
+        display: block;
+    }
+
+    #contact-table tr {
+        display: block;
+    }
+
+    #contact-table td {
+        display: block;
+        width: 100%;
+    }
+    
 
     #about-text {
         text-align: left;
