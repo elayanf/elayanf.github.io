@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Song Recommender</title>
+        <link rel="stylesheet" href="../resources/song-rec.css">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+    </head>
+    <body>
+        <nav class="nav">
+            <div class="nav-container">
+                <a href="/ar/song-rec/" style="text-decoration: none;"><h3 class="logo">Totally-Not-Biased-Towards-Abdelhalim-Hafez Song Recommender</h3></a>
+                <ul class="nav-links">
+                    <!-- <li><a href="#artistSearch">Artists</a></li> -->
+                    <a href="/ar/song-rec/"><img src="../resources/arabic.svg" alt="Arabic" style="width:2rem; margin-left:10px; margin-right:10px;"></a>
+                    <!-- <li><a href="about.html">Mood</a></li> -->
+                </ul>
+            </div>
+        </nav>
+    
+    <section class="main-card">
+        <div class="main-card-content">
+            <h1 class="main-card-title">Discover Your Next Favorite Song</h1>
+            <p class="main-card-subtitle">The perfect song based on your interest and moods is calculated using our complex algorithm*</p>
+            <p style="color:#b4b4b4">*whose results are discarded to instead give you a random Abdelhalim Hafez song</p>
+            <a href="#artistSearch" class="btn btn-primary">Start Exploring</a>
+        </div>
+    </section>
+    
+    <section class="artist-search" id="artistSearch">
+        <h2 class="section-title">Get A Song From Your Favorite Artist</h2>
+        <p class="main-card-subtitle">Select an artist to get recommended a song of their's</p>
+        <div class="search-container">
+            <input type="text" class="artist-input" id="searchInput" placeholder="Enter artist name...">   
+            <div class="artist-results" id="searchResults"></div>
+        </div>
+        <a id="randomizeAH" class="link-btn" href="/song-rec/artist.html" style="font-size: 1.2rem;">Or Get A Random Abdelhalim Song Right Away</a>
+        <div class="artists-grid" id="artistsGrid">
+            
+        </div>
+    </section>
+
+    <section class="artist-choose">
+        <!-- <h2 class="section-title">Get A Recommended Artist</h2>
+        <p class="main-card-subtitle">Select a group of your favorite artists to get a recommended artist.</p> -->
+    </section>
+
+
+    <footer>
+        <p>&copy; 2025 Firas Elayan</p>
+    </footer>
+
+    <!-- <script>
+        let particles = [];
+        
+        function setup() {
+            let canvas = createCanvas(windowWidth, windowHeight);
+            canvas.id('p5-canvas');
+            canvas.parent(document.body);
+            
+            // Initialize particles
+            for (let i = 0; i < 50; i++) {
+                particles.push({
+                    x: random(width),
+                    y: random(height),
+                    vx: random(-0.5, 0.5),
+                    vy: random(-0.5, 0.5),
+                    size: random(2, 6),
+                    alpha: random(0.1, 0.3)
+                });
+            }
+        }
+        
+        function draw() {
+            clear();
+            
+            // Update and draw particles
+            for (let particle of particles) {
+                particle.x += particle.vx;
+                particle.y += particle.vy;
+                
+                // Wrap around edges
+                if (particle.x < 0) particle.x = width;
+                if (particle.x > width) particle.x = 0;
+                if (particle.y < 0) particle.y = height;
+                if (particle.y > height) particle.y = 0;
+                
+                // Draw particle
+                fill(255, 107, 107, particle.alpha * 255);
+                noStroke();
+                ellipse(particle.x, particle.y, particle.size);
+            }
+            
+            // Draw connections
+            for (let i = 0; i < particles.length; i++) {
+                for (let j = i + 1; j < particles.length; j++) {
+                    let d = dist(particles[i].x, particles[i].y, particles[j].x, particles[j].y);
+                    if (d < 100) {
+                        stroke(255, 107, 107, (1 - d/100) * 50);
+                        strokeWeight(1);
+                        line(particles[i].x, particles[i].y, particles[j].x, particles[j].y);
+                    }
+                }
+            }
+        }
+        
+        function windowResized() {
+            resizeCanvas(windowWidth, windowHeight);
+        }
+    </script> -->
+
+    <script src="../resources/main.js"></script>
+    </body>
+</html>

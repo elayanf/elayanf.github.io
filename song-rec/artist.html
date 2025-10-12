@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Recommendation</title>
+
+        <link rel="stylesheet" href="/resources/song-rec.css">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+    </head>
+    <body>
+        <nav class="nav">
+            <div class="nav-container">
+                <a href="song-rec/" style="text-decoration: none;"><h3 class="logo">Totally-Not-Biased-Towards-Abdelhalim-Hafez Song Recommender</h3></a>
+                <ul class="nav-links">
+                    <a href="" onclick="app.navigateToArabic(); return false;"><img src="/resources/arabic.svg" alt="Arabic" style="width:2rem; margin-left:10px; margin-right:10px;"></a>
+                    <!-- <li><a href="about.html">Mood</a></li> -->
+                </ul>
+            </div>
+        </nav>
+
+        <a href="/song-rec/" class="back-btn">← Back to Home</a>
+
+
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+        </div>
+        
+        
+        <div id="artistContent" style="display: none;">
+            <section class="artist-header">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <h2 class="main-card-subtitle" id="you-chose"></h2>
+                    <p class="main-card-subtitle" id="ahh-song"></p>
+                </div>
+                <div class="artist-container">
+                    <img id="artistImage" src="" alt="" class="artist-page-image">
+                    <div class="song-info">
+                        <div class="song-title">
+                            <h1 id="songName"></h1>
+                            <a href="" class="refresh-btn" onclick="event.preventDefault(); app.getAbdelHalim();" aria-label="Refresh">↻</a>
+                        </div>
+                        
+                        <p id="songWriter" class="artist-genre"></p>
+                        <p id="songComposer" class="artist-genre"></p>
+                        <p id="songLyric" class="song-lyric"></p>
+                        <div class="artist-links">
+                            <a id="youtubeLink" href="#" class="link-btn" target="_blank">Listen on YouTube</a>
+                            <a id="appleLink" href="#" class="link-btn" target="_blank">Listen on Apple Music</a>
+                            <a id="spotifyLink" href="#" class="link-btn" target="_blank">Listen on Spotify</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <p>&copy; 2025 Firas Elayan</p>
+        </footer>
+
+        <script>
+            class ArtistPage {
+                constructor() {
+                    this.artists = [];
+                    this.abdelhalimSongs = [];
+                    this.phrases = [
+                        name => `Really? ${name}? Just listen to this instead.`,
+                        name => `So you want to listen to ${name}. How about you listen to this instead.`,
+                        name => `You picked ${name}. I'm still giving you Abdelhalim.`,
+                        name => `${name}? Not today. Here's Abdelhalim instead.`,
+                        name => `Request for ${name} noted. Serving Abdelhalim anyway.`,
+                        name => `${name} can wait. This Abdelhalim song can't.`,
+                        name => `You searched ${name}. The answer is still Abdelhalim.`,
+                        name => `${name}? Site bias engaged. Delivering Abdelhalim.`,
+                        name => `Skipping ${name}. Playing Abdelhalim instead.`,
+                        name => `Nice try with ${name}. Result: Abdelhalim.`,
+                        name => `Typing ${name} doesn't change that this is a Abdelhalim site.`,
+                        name => `Looking for ${name}? Redirecting taste toward Abdelhalim.`,
+                        name => `${name}? The site respectfully disagrees. Here's Abdelhalim.`,
+                        name => `We saw ${name}. We chose Abdelhalim.`,
+                        name => `Selecting ${name} does not override Abdelhalim.`,
+                        name => `${name} submitted. Abdelhalim approved.`,
+                        name => `Even if you want ${name}, you get Abdelhalim.`,
+                        name => `All paths (even from ${name}) lead to Abdelhalim.`,
+                        name => `Queue contained ${name}. Reordered to Abdelhalim.`,
+                        name => `${name}? Maybe later. Abdelhalim now.`
+                    ];
+                    this.currentArtist = null;
+                    this.init();
+                }
+
+                async init() {
+                    await this.loadData();
+                    await this.loadArtist();
+                    this.setupEventListeners();
+                }
+
+                async loadData() {
+                    const response = await fetch('/resources/artists.json');
+                    const data = await response.json();
+                    this.artists = data.artists;
+                    const ah_response = await fetch('/resources/abdelhalim.json')
+                    const ah_data = await ah_response.json()
+                    this.abdelhalimSongs = ah_data.songs;
+                }
+
+                loadArtist() {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    this.artistFirstName = urlParams.get('firstName');
+                    this.artistLastName = urlParams.get('lastName');
+
+                    const youchose = document.getElementById('you-chose');
+                    
+                    if (!this.artistFirstName && !this.artistLastName) {
+                        youchose.textContent = `Here you go!`;
+                    } else if (!(this.artists.find(artist => artist.firstName === this.artistFirstName && artist.lastName === this.artistLastName))) {
+                        youchose.textContent = `Hmm, I'm not sure who that is, but I'm sure this is better anyways!`;
+                    } else {
+                        const parts = [this.artistFirstName, this.artistLastName].filter(v => v && v.trim());
+                        if (parts.length) {
+                            const displayName = parts.join(' ');
+                            if (displayName === 'Abdelhalim Hafez') {
+                                youchose.textContent = 'You chose Abdelhalim Hafez? Good choice!';
+                            } else {
+                                const phraseFn = this.phrases[Math.floor(Math.random() * this.phrases.length)];
+                                youchose.textContent = phraseFn(displayName);
+                            }
+                        }
+                    }
+
+                    this.getAbdelHalim();
+                }
+
+                getAbdelHalim() {
+                    var song = this.abdelhalimSongs[Math.floor(Math.random()*this.abdelhalimSongs.length)];
+
+                    const artistImage = document.getElementById('artistImage');
+                    const songName = document.getElementById('songName');
+                    const songWriter = document.getElementById('songWriter');
+                    const songComposer = document.getElementById('songComposer');
+                    const youtubeLink = document.getElementById('youtubeLink');
+                    const appleLink = document.getElementById('appleLink');
+                    const spotifyLink = document.getElementById('spotifyLink');
+                    const songLyric = document.getElementById('songLyric');
+
+                    artistImage.src = "https://yt3.googleusercontent.com/ytc/AIdro_n4u2ZL9sU4NnGwC1Ljy2IeSWCroMpcYfT1flFpcIHkzA=s160-c-k-c0x00ffffff-no-rj";
+                    artistImage.alt = "Abdelhalim Hafez";
+                    songName.textContent = song.title;
+                    songWriter.textContent = `Written by: ${song.writer}`;
+                    songComposer.textContent = `Composed by: ${song.composer}`;
+                    youtubeLink.href = song.youtube;
+                    appleLink.href = song.apple;
+                    spotifyLink.href = song.spotify;
+                    if (song.lyrics){
+                        songLyric.textContent = song.lyrics[Math.floor(Math.random()*song.lyrics.length)] || "";
+                    }
+                    this.hideLoading();
+                }
+
+                hideLoading() {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('artistContent').style.display = 'block';
+                }
+
+                setupEventListeners() {
+                    document.querySelector('.back-btn').addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.location.href = "/song-rec/";
+                    });
+
+                    window.addEventListener('scroll', () => {
+                        const nav = document.querySelector('.nav');
+                        if (window.scrollY > 100) {
+                            nav.style.background = 'rgba(26, 26, 26, 0.98)';
+                        } else {
+                            nav.style.background = 'rgba(26, 26, 26, 0.95)';
+                        }
+                    });
+                }
+
+                navigateToArabic() {
+                    const first = this.artistFirstName || localStorage.getItem('artistFirstName') || '';
+                    const last  = this.artistLastName  || localStorage.getItem('artistLastName')  || '';
+                    localStorage.setItem('lang', 'ar');
+                    const qs = new URLSearchParams({ firstName: first, lastName: last }).toString();
+                    window.location.href = `${window.location.origin}/ar/song-rec/artist.html?${qs}`;
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', () => {
+                window.app = new ArtistPage();
+                document.addEventListener('DOMContentLoaded', () => {
+                window.app = new ArtistPage();
+                document.getElementById('refreshBtn')?.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    window.app.getAbdelHalim();
+                });
+                });
+            });
+        </script>
+    </body>
+</html>

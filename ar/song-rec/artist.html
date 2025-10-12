@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Recommendation</title>
+
+        <link rel="stylesheet" href="/resources/song-rec.css">
+        <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Varela+Round&display=swap" rel="stylesheet">
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.6.2/fuse.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.0/p5.min.js"></script>
+    </head>
+    <body>
+        <nav class="nav" style="padding: 0.4rem 2rem;">
+            <div class="nav-container">
+                <a href="/ar/song-rec/" style="text-decoration: none;"><h3 class="logo">موصي الأغاني الذي أكيد غير متحيز نحو عبد الحليم حافظ</h3></a>
+                <ul class="nav-links">
+                    <a href="" onclick="app.navigateToEnglish(); return false;"><img src="/resources/english.svg" alt="English" style="width:2rem; margin-left:10px; margin-right:10px;"></a>
+                    <!-- <li><a href="about.html">Mood</a></li> -->
+                </ul>
+            </div>
+        </nav>
+
+        <a href="/ar/song-rec/" class="back-btn">→ العودة</a>
+
+
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+        </div>
+        
+        
+        <div id="artistContent" style="display: none;">
+            <section class="artist-header">
+                <div style="text-align: center; margin-bottom: 20px;">
+                    <h2 class="main-card-subtitle" id="you-chose"></h2>
+                    <p class="main-card-subtitle" id="ahh-song"></p>
+                </div>
+                <div class="artist-container">
+                    
+                    <div class="song-info">
+                        <div class="song-title">
+                            <h1 id="songName" style="font-family: 'Amiri';"></h1>
+                            <a href="" class="refresh-btn" style="left: -50%;" onclick="event.preventDefault(); app.getAbdelHalim();" aria-label="Refresh">↻</a>
+                        </div>
+                        
+                        <p id="songWriter" class="artist-genre"></p>
+                        <p id="songComposer" class="artist-genre"></p>
+                        <p id="songLyric" class="song-lyric"></p>
+                        <div class="artist-links">
+                            <a id="youtubeLink" href="#" class="link-btn" target="_blank">استمع على اليوتيوب</a>
+                            <a id="appleLink" href="#" class="link-btn" target="_blank">استمع على Apple Music</a>
+                            <a id="spotifyLink" href="#" class="link-btn" target="_blank">استمع على Spotify</a>
+                        </div>
+                    </div>
+                    <img id="artistImage" src="" alt="" class="artist-page-image">
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <p>&copy; 2025 Firas Elayan</p>
+        </footer>
+
+        <script>
+            class ArtistPage {
+                constructor() {
+                    this.artists = [];
+                    this.abdelhalimSongs = [];
+                    this.phrases = [
+                        name => `حقاً؟ ${name}؟ استمع لهذا بدلا.`,
+                        name => `هل ترغب بالاستماع إلى ${name}؟ ماذا لو استمعت إلى هذا بدلاً من ذلك؟`,
+                        name => `لقد اخترت ${name}. سأعطيك عبد الحليم بالرغم من ذلك.`,
+                        name => `${name}؟ ليس اليوم. هنا عبد الحليم.`,
+                        name => `تم ملاحظة طلبك ل${name}. سأقدم لك عبد الحليم على أي حال.`,
+                        name => `أغاني ${name} تستطيع الانتظار. أغنية عبد الحليم هذه لا تستطيع الانتظار.`,
+                        name => `لقد بحثت عن ${name}. الإجابة لا تزال عبد الحليم.`,
+                        name => `${name}؟ تحيز الموقع مفعل. تقديم أغنية لعبد الحليم.`,
+                        name => `تخطي ${name}. تشغيل عبد الحليم بدلاً من ذلك.`,
+                        name => `محاولة جيدة مع ${name}. النتيجة: عبد الحليم.`,
+                        name => `كتابة ${name} لا يغير من حقيقة أن هذا موقع لعبد الحليم.`,
+                        name => `هل تبحث عن ${name}؟ إعادة توجيه الذوق نحو عبد الحليم.`,
+                        name => `${name}؟ الموقع لا يوافق على هذا الرأي بكل احترام. هنا عبد الحليم.`,
+                        name => `لقد رأينا ${name}. اخترنا عبد الحليم.`,
+                        name => `لا يؤدي تحديد ${name} إلى إلغاء عبد الحليم.`,
+                        name => `تم تقديم ${name}. تمت الموافقة على عبد الحليم.`,
+                        name => `حتى لو أردت ${name}، ستحصل على عبد الحليم.`,
+                        name => `كل الطرق (حتى من ${name}) تؤدي إلى عبد الحليم.`,
+                        name => `قائمة الانتظار تحتوي على ${name}. تم ​​إعادة ترتيبها إلى عبد الحليم.`,
+                        name => `${name}؟ ربما لاحقًا. عبد الحليم الآن.`
+                    ];
+                    this.currentArtist = null;
+                    this.init();
+                }
+
+                async init() {
+                    await this.loadData();
+                    await this.loadArtist();
+                    this.setupEventListeners();
+                }
+
+                async loadData() {
+                    const response = await fetch('/resources/artists.json');
+                    const data = await response.json();
+                    this.artists = data.artists;
+                    const ah_response = await fetch('/resources/abdelhalim.json')
+                    const ah_data = await ah_response.json()
+                    this.abdelhalimSongs = ah_data.songs;
+                }
+
+                loadArtist() {
+                    const urlParams = new URLSearchParams(window.location.search);
+                    this.artistFirstName = urlParams.get('firstName');
+                    this.artistLastName = urlParams.get('lastName');
+
+                    const youchose = document.getElementById('you-chose');
+                    const currentArtist = this.artists.find(artist => artist.firstName === this.artistFirstName && artist.lastName === this.artistLastName)
+                    
+                    if (!this.artistFirstName && !this.artistLastName) {
+                        youchose.textContent = `ها أنت!`;
+                    } else if (!currentArtist) {
+                        youchose.textContent = `مممم، أنا لست متأكد من هو ذلك، لكنني متأكد من أن هذا أفضل على أي حال!`;
+                    } else {
+                        let displayName = '';
+                        if (currentArtist.name_ar) {
+                            displayName = currentArtist.name_ar;
+                        } else {
+                            displayName = [this.artistFirstName, this.artistLastName].filter(v => v && v.trim()).join(' ');
+                        }
+                        if (displayName === 'Abdelhalim Hafez' || displayName === 'عبد الحليم حافظ') {
+                            youchose.textContent = 'اخترت عبد الحليم حافظ؟ اختيار ممتاز!';
+                        } else {
+                            const phraseFn = this.phrases[Math.floor(Math.random() * this.phrases.length)];
+                            youchose.textContent = phraseFn(displayName);
+                        }
+                    }
+
+                    this.getAbdelHalim();
+                }
+
+                getAbdelHalim() {
+                    var song = this.abdelhalimSongs[Math.floor(Math.random()*this.abdelhalimSongs.length)];
+
+                    const artistImage = document.getElementById('artistImage');
+                    const songName = document.getElementById('songName');
+                    const songWriter = document.getElementById('songWriter');
+                    const songComposer = document.getElementById('songComposer');
+                    const youtubeLink = document.getElementById('youtubeLink');
+                    const appleLink = document.getElementById('appleLink');
+                    const spotifyLink = document.getElementById('spotifyLink');
+                    const songLyric = document.getElementById('songLyric');
+
+                    artistImage.src = "https://yt3.googleusercontent.com/ytc/AIdro_n4u2ZL9sU4NnGwC1Ljy2IeSWCroMpcYfT1flFpcIHkzA=s160-c-k-c0x00ffffff-no-rj";
+                    artistImage.alt = "Abdelhalim Hafez";
+                    songName.textContent = song.title_ar;
+                    songWriter.textContent = `تأليف: ${song.writer_ar}`;
+                    songComposer.textContent = `تلحين: ${song.composer_ar}`;
+                    youtubeLink.href = song.youtube;
+                    appleLink.href = song.apple;
+                    spotifyLink.href = song.spotify;
+                    if (song.lyrics){
+                        songLyric.textContent = song.lyrics[Math.floor(Math.random()*song.lyrics.length)] || "";
+                    }
+                    this.hideLoading();
+                }
+
+                hideLoading() {
+                    document.getElementById('loading').style.display = 'none';
+                    document.getElementById('artistContent').style.display = 'block';
+                }
+
+                setupEventListeners() {
+                    document.querySelector('.back-btn').addEventListener('click', (e) => {
+                        e.preventDefault();
+                        window.location.href = "/ar/song-rec/";
+                    });
+
+                    window.addEventListener('scroll', () => {
+                        const nav = document.querySelector('.nav');
+                        if (window.scrollY > 100) {
+                            nav.style.background = 'rgba(26, 26, 26, 0.98)';
+                        } else {
+                            nav.style.background = 'rgba(26, 26, 26, 0.95)';
+                        }
+                    });
+                }
+
+                navigateToEnglish() {
+                    const first = this.artistFirstName || localStorage.getItem('artistFirstName') || '';
+                    const last  = this.artistLastName  || localStorage.getItem('artistLastName')  || '';
+                    localStorage.setItem('lang', 'en');
+                    const qs = new URLSearchParams({ firstName: first, lastName: last }).toString();
+                    window.location.href = `${window.location.origin}/song-rec/artist.html?${qs}`;
+                }
+            }
+
+            document.addEventListener('DOMContentLoaded', () => {
+                window.app = new ArtistPage();
+                document.addEventListener('DOMContentLoaded', () => {
+                window.app = new ArtistPage();
+                document.getElementById('refreshBtn')?.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    window.app.getAbdelHalim();
+                });
+                });
+            });
+        </script>
+    </body>
+</html>

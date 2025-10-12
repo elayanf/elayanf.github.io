@@ -1,0 +1,5855 @@
+{
+  "artists": [
+    {
+      "firstName": "Abdelhalim",
+      "lastName": "Hafez",
+      "name_ar": "عبد الحليم حافظ",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_n4u2ZL9sU4NnGwC1Ljy2IeSWCroMpcYfT1flFpcIHkzA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "The 13th Floor Elevators",
+      "lastName": "",
+      "name_ar": "ذا 13ث فلور إلفيترز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/gtwekYkKCUn2DV6rlM2inNFrYdbfb-nFcjGsqmW2_7oit5iiieUhe4dFlft6Nm5Mudsn5SZzPg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Cooper",
+      "name_ar": "أليس كوبر",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_m2SnTi-j0OW5txDgnZqFY0lTqd_ls2KaH7RoODqHYFtfk=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "The Amboy Dukes",
+      "lastName": "",
+      "name_ar": "ذا أمبوي دوكس",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/3Il_Y83Mk486GY11azaCY98IfDQCDwCbOtbBYj0ELmdv3iIxT25ZsPWrri2nAZkXJknXdsIblA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Amon",
+      "lastName": "Düül",
+      "name_ar": "أمون دويل",
+      "group": false
+    },
+    {
+      "firstName": "Big Brother and the Holding Company",
+      "lastName": "",
+      "name_ar": "بيج براذر آند ذا هولدينج كومباني",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/EYMI9sz1DkgS1WgvhkoyElDnTdC1INkzLHiDulNDMgWzOOm476HtUu8W5hYfsPXQ9wsoFn2UBA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Black Sabbath",
+      "lastName": "",
+      "name_ar": "بلاك ساباث",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/g3Y2usgxKS9JhLf0235QhvGsuTTLnqFUxBb4m0jPe7wVjFbwI_3K5BYq-4iPNcibDrBHh7U8=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Blue Cheer",
+      "lastName": "",
+      "name_ar": "بلو تشير",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/IihFNO5e_t2e9nYCja6v2DJD1pwKva-7qNXzyVrVYsDxHzs_mkeGzDLXip7x1A4FSTQOk66d4g=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Blues Magoos",
+      "lastName": "",
+      "name_ar": "بلوز ماجوس",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/-Uow3ByOD2IXsS4CnA2zBVR0cS_byFWJQM5zwUYWPoJszzaX1-RWrNZazPq5PF3kJh_5I1jU5w=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "The Charlatans",
+      "lastName": "",
+      "name_ar": "ذا تشارلتنز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/pZFHhh7rA4LPKYItHXPAEdmKMqe-VVmaCBxsvo-ThFIAVU75AK8PZko4jgkFnAzR5XfP3136jg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Count Five",
+      "lastName": "",
+      "name_ar": "كاونت فايف",
+      "group": true
+    },
+    {
+      "firstName": "Country Joe and the Fish",
+      "lastName": "",
+      "name_ar": "كاونت جو آند ذا فيش",
+      "group": true
+    },
+    {
+      "firstName": "Coven",
+      "lastName": "",
+      "name_ar": "كوفن",
+      "group": false
+    },
+    {
+      "firstName": "Cream",
+      "lastName": "",
+      "name_ar": "كريم",
+      "group": false
+    },
+    {
+      "firstName": "Deep",
+      "lastName": "Purple",
+      "name_ar": "ديب بيربل",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Deviants",
+      "name_ar": "ذا ديفيانتس",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Doors",
+      "name_ar": "ذا دورز",
+      "group": false
+    },
+    {
+      "firstName": "The Electric Prunes",
+      "lastName": "",
+      "name_ar": "ذا إليكتريك برونز",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Fugs",
+      "name_ar": "ذا فاغز",
+      "group": false
+    },
+    {
+      "firstName": "Grateful",
+      "lastName": "Dead",
+      "name_ar": "غريتفل ديد",
+      "group": false
+    },
+    {
+      "firstName": "The Great Society",
+      "lastName": "",
+      "name_ar": "ذا غريت سوسايتي",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Groundhogs",
+      "name_ar": "ذا جراوندهوغز",
+      "group": false
+    },
+    {
+      "firstName": "Hawkwind",
+      "lastName": "",
+      "name_ar": "هوكويند",
+      "group": false
+    },
+    {
+      "firstName": "Iron",
+      "lastName": "Butterfly",
+      "name_ar": "آيرون بترفلاي",
+      "group": false
+    },
+    {
+      "firstName": "Jefferson",
+      "lastName": "Airplane",
+      "name_ar": "جيفرسون إيربلين",
+      "group": false
+    },
+    {
+      "firstName": "The Jimi Hendrix Experience",
+      "lastName": "",
+      "name_ar": "ذا جيمي هندريكس إكسبيرينس",
+      "group": true
+    },
+    {
+      "firstName": "Janis",
+      "lastName": "Joplin",
+      "name_ar": "جانيس جوبلين",
+      "group": false
+    },
+    {
+      "firstName": "JPT Scare Band",
+      "lastName": "",
+      "name_ar": "جاي بي تي سكاري باند",
+      "group": true
+    },
+    {
+      "firstName": "Love",
+      "lastName": "",
+      "name_ar": "لوف",
+      "group": false
+    },
+    {
+      "firstName": "MC5",
+      "lastName": "",
+      "name_ar": "إم سي 5",
+      "group": false
+    },
+    {
+      "firstName": "Moby",
+      "lastName": "Grape",
+      "name_ar": "موبي جريب",
+      "group": false
+    },
+    {
+      "firstName": "The Music Machine",
+      "lastName": "",
+      "name_ar": "ذا ميوزيك ماشين",
+      "group": true
+    },
+    {
+      "firstName": "Pop",
+      "lastName": "Mašina",
+      "name_ar": "بوب ماشينا",
+      "group": false
+    },
+    {
+      "firstName": "Quicksilver Messenger Service",
+      "lastName": "",
+      "name_ar": "كويكسيلفر ميسينجر سيرفيس",
+      "group": true
+    },
+    {
+      "firstName": "Santana",
+      "lastName": "",
+      "name_ar": "سانتانا",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Seeds",
+      "name_ar": "ذا سيدز",
+      "group": false
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Slick",
+      "name_ar": "غريس سليدج",
+      "group": false
+    },
+    {
+      "firstName": "Steppenwolf",
+      "lastName": "",
+      "name_ar": "ستيبين وولف",
+      "group": false
+    },
+    {
+      "firstName": "Tully",
+      "lastName": "",
+      "name_ar": "تولي",
+      "group": false
+    },
+    {
+      "firstName": "Vanilla",
+      "lastName": "Fudge",
+      "name_ar": "فانيلا فادج",
+      "group": false
+    },
+    {
+      "firstName": "Wooden",
+      "lastName": "Shjips",
+      "name_ar": "وودن شيبس",
+      "group": false
+    },
+    {
+      "firstName": ".38",
+      "lastName": "Special",
+      "name_ar": ".38 سبيشال",
+      "group": false
+    },
+    {
+      "firstName": "10,000",
+      "lastName": "Maniacs",
+      "name_ar": "10000 مانيكس",
+      "group": false
+    },
+    {
+      "firstName": "10cc",
+      "lastName": "",
+      "name_ar": "10 سي سي",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "B-52's",
+      "name_ar": "ذا بي-52ز",
+      "group": false
+    },
+    {
+      "firstName": "A Flock of Seagulls",
+      "lastName": "",
+      "name_ar": "فلوك أوف سيغولز",
+      "group": true
+    },
+    {
+      "firstName": "A Tribe Called Quest",
+      "lastName": "",
+      "name_ar": "ترايب كولد كويست",
+      "group": true
+    },
+    {
+      "firstName": "A-ha",
+      "lastName": "",
+      "name_ar": "آها",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/NIIXayfWNCJHw5uMpm6-LCZjlnZu-l-gQMEZqbBLBy77ZFz_w9RlTFePAAXOza0cCo5Rli6o9w=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "ABBA",
+      "lastName": "",
+      "name_ar": "آبا",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/ORv2t07cv-6KWaEAPrX8gjw0Gijn005m0iGObnr6wwy6atRdJt3rNTxXuoAU1bPVG9yfjaIF=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "ABC",
+      "lastName": "",
+      "name_ar": "إيه بي سي",
+      "group": false
+    },
+    {
+      "firstName": "AC/DC",
+      "lastName": "",
+      "name_ar": "إيه سي/دي سي",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/v4D5KQ1UKEvq0qzgnwIMdmCV6-ST-VnuyJQPD8GkUYyZJEBFF2w5eHTUcFeSqX2UfFildnU=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Ryan",
+      "lastName": "Adams",
+      "name_ar": "ريان آدامز",
+      "group": false
+    },
+    {
+      "firstName": "Adele",
+      "lastName": "",
+      "name_ar": "أديل",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/BkJSG0gIJTKyUziqxJOdtJSjXbPNtOelrBBFjRoOaa_xcFgaptqm8hvHxbh46P4uZc4lV3f4=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "The Airborne Toxic Event",
+      "lastName": "",
+      "name_ar": "ذا إيربورن توكسك إيفينت",
+      "group": true
+    },
+    {
+      "firstName": "Alberta",
+      "lastName": "Cross",
+      "name_ar": "ألبرتا كروس",
+      "group": false
+    },
+    {
+      "firstName": "Alice In Chains",
+      "lastName": "",
+      "name_ar": "أليس إن تشينز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/migQJqob_eDMOU7XxAUAiJYa_obBSrNaA-OOfFR-bUAGKdHijw-dItdL-n687CVmcC7mo-C_kQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Cooper",
+      "name_ar": "أليس كوبر",
+      "group": false
+    },
+    {
+      "firstName": "Lily",
+      "lastName": "Allen",
+      "name_ar": "ليلي ألين",
+      "group": false
+    },
+    {
+      "firstName": "All American Rejects",
+      "lastName": "",
+      "name_ar": "أول أمريكان ريجكتس",
+      "group": true
+    },
+    {
+      "firstName": "The Allman Brothers Band",
+      "lastName": "",
+      "name_ar": "ذا ألمن براذرز باند",
+      "group": true
+    },
+    {
+      "firstName": "Gregg",
+      "lastName": "Allman",
+      "name_ar": "جريج ألمن",
+      "group": false
+    },
+    {
+      "firstName": "Girls",
+      "lastName": "Aloud",
+      "name_ar": "غيرلز آلاود",
+      "group": false
+    },
+    {
+      "firstName": "Aly & AJ",
+      "lastName": "",
+      "name_ar": "آلي آند إيه جي",
+      "group": true
+    },
+    {
+      "firstName": "AJR",
+      "lastName": "",
+      "name_ar": "إيه جي آر",
+      "group": false
+    },
+    {
+      "firstName": "alt-J",
+      "lastName": "",
+      "name_ar": "ألت-جي",
+      "group": false
+    },
+    {
+      "firstName": "Ambrosia",
+      "lastName": "",
+      "name_ar": "أمبروزيا",
+      "group": false
+    },
+    {
+      "firstName": "American Authors",
+      "lastName": "",
+      "name_ar": "أمريكان أوثورز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/zrDEAvIOH6vnbNAZuQ6A2AI8WeT--SWuuFPHmu4r_gaBCxlMS6ZhxjI6BZW6BJRJldgPbFBQonY=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Tori",
+      "lastName": "Amos",
+      "name_ar": "توري اموز",
+      "group": false
+    },
+    {
+      "firstName": "Anderson",
+      "lastName": "Paak",
+      "name_ar": " أندرسون باك",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Angels",
+      "name_ar": "ذا اينجاز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Animals",
+      "name_ar": "ذا أنيمالز",
+      "group": false
+    },
+    {
+      "firstName": "Fiona",
+      "lastName": "Apple",
+      "name_ar": "فيونا ابل",
+      "group": false
+    },
+    {
+      "firstName": "Aqualung",
+      "lastName": "",
+      "name_ar": "أكوالانغ",
+      "group": false
+    },
+    {
+      "firstName": "Arcade",
+      "lastName": "Fire",
+      "name_ar": "أركيد فاير",
+      "group": false
+    },
+    {
+      "firstName": "Tasmin",
+      "lastName": "Archer",
+      "name_ar": "تاسمن آرتشر",
+      "group": false
+    },
+    {
+      "firstName": "Arctic Monkeys",
+      "lastName": "",
+      "name_ar": "آركتيك مونكيز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/LwqWjGUFrrBLB45N0FdHOuOqY0i223YqVds0tkQkk8dSJccj0L2uWJjbx1kxOJY47eUqP0Gx=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Jann",
+      "lastName": "Arden",
+      "name_ar": "جان أردن",
+      "group": false
+    },
+    {
+      "firstName": "Arlo",
+      "lastName": "Parks",
+      "name_ar": "أرلو باركس",
+      "group": false
+    },
+    {
+      "firstName": "Louis",
+      "lastName": "Armstrong",
+      "name_ar": "لويس أرمسترونج",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_nCfY2iIl0VRBOeOKbClOGTOSHAy-us42QPmBL_i45Y=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Joseph",
+      "lastName": "Arthur",
+      "name_ar": "جوزيف آرثر",
+      "group": false
+    },
+    {
+      "firstName": "Ásgeir",
+      "lastName": "",
+      "name_ar": "آسغير",
+      "group": false
+    },
+    {
+      "firstName": "Asia",
+      "lastName": "",
+      "name_ar": "آسيا",
+      "group": false
+    },
+    {
+      "firstName": "Asleep at the Wheel",
+      "lastName": "",
+      "name_ar": "أسليب آت ذا ويل",
+      "group": true
+    },
+    {
+      "firstName": "Assembly of Dust",
+      "lastName": "",
+      "name_ar": "أسيمبلي أوف داست",
+      "group": true
+    },
+    {
+      "firstName": "Nicole",
+      "lastName": "Atkins",
+      "name_ar": "نيكول أتكينز",
+      "group": false
+    },
+    {
+      "firstName": "Atlas",
+      "lastName": "Genius",
+      "name_ar": "أطلس جينيوس",
+      "group": false
+    },
+    {
+      "firstName": "Augustana",
+      "lastName": "",
+      "name_ar": "أوغستانا",
+      "group": false
+    },
+    {
+      "firstName": "The Avett Brothers",
+      "lastName": "",
+      "name_ar": "ذا أفيت براذرز",
+      "group": true
+    },
+    {
+      "firstName": "Bachman-Turner",
+      "lastName": "Overdrive",
+      "name_ar": "باكمان-تيرنر أوفردرايف",
+      "group": false
+    },
+    {
+      "firstName": "Badfinger",
+      "lastName": "",
+      "name_ar": "بادفينغر",
+      "group": false
+    },
+    {
+      "firstName": "Badly Drawn Boy",
+      "lastName": "",
+      "name_ar": "بادلي دراون بوي",
+      "group": true
+    },
+    {
+      "firstName": "Bahamas",
+      "lastName": "",
+      "name_ar": "باهاماس",
+      "group": false
+    },
+    {
+      "firstName": "Bakar",
+      "lastName": "",
+      "name_ar": "باكار",
+      "group": false
+    },
+    {
+      "firstName": "Bananarama",
+      "lastName": "",
+      "name_ar": "باناناراما",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Band",
+      "name_ar": "ذا باند",
+      "group": false
+    },
+    {
+      "firstName": "Dazz",
+      "lastName": "Band",
+      "name_ar": "داز باند",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Bangles",
+      "name_ar": "ذا بانغلز",
+      "group": false
+    },
+    {
+      "firstName": "Band of Horses",
+      "lastName": "",
+      "name_ar": "باند أوف هورسز",
+      "group": true
+    },
+    {
+      "firstName": "Sara",
+      "lastName": "Bareilles",
+      "name_ar": "سارا باريليس",
+      "group": false
+    },
+    {
+      "firstName": "Barenaked",
+      "lastName": "Ladies",
+      "name_ar": "باريناكيد ليديز",
+      "group": false
+    },
+    {
+      "firstName": "The Baseball Project",
+      "lastName": "",
+      "name_ar": "ذا بيسبول بروجيكت",
+      "group": true
+    },
+    {
+      "firstName": "Bear",
+      "lastName": "Hands",
+      "name_ar": "بير هاندز",
+      "group": false
+    },
+    {
+      "firstName": "The Beach Boys",
+      "lastName": "",
+      "name_ar": "ذا بيتش بويز",
+      "group": true
+    },
+    {
+      "firstName": "Beastie",
+      "lastName": "Boys",
+      "name_ar": "بيستي بويز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Beatles",
+      "name_ar": "ذا بيتلز",
+      "group": false
+    },
+    {
+      "firstName": "The Beautiful South",
+      "lastName": "",
+      "name_ar": "ذا بيوتيفول ساوث",
+      "group": true
+    },
+    {
+      "firstName": "Beck",
+      "lastName": "",
+      "name_ar": "بيك",
+      "group": false
+    },
+    {
+      "firstName": "Howie",
+      "lastName": "Beck",
+      "name_ar": "هاوي بيك",
+      "group": false
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Beck",
+      "name_ar": "جيف بيك",
+      "group": false
+    },
+    {
+      "firstName": "Bee",
+      "lastName": "Gees",
+      "name_ar": "بي جيز",
+      "group": false
+    },
+    {
+      "firstName": "The Bees / A Band of Bees",
+      "lastName": "",
+      "name_ar": "ذا بيز / أ باند أوف بيز",
+      "group": true
+    },
+    {
+      "firstName": "Beirut",
+      "lastName": "",
+      "name_ar": "بيروت",
+      "group": false
+    },
+    {
+      "firstName": "Belle",
+      "lastName": "Brigade",
+      "name_ar": "بيل بريغيد",
+      "group": false
+    },
+    {
+      "firstName": "Ben Folds Five",
+      "lastName": "",
+      "name_ar": "بن فولدز فايف",
+      "group": true
+    },
+    {
+      "firstName": "Chuck",
+      "lastName": "Berry",
+      "name_ar": "تشاك بيري",
+      "group": false
+    },
+    {
+      "firstName": "Best",
+      "lastName": "Coast",
+      "name_ar": "بيست كوست",
+      "group": false
+    },
+    {
+      "firstName": "Better Than Ezra",
+      "lastName": "",
+      "name_ar": "بيتر ذان عزرا",
+      "group": true
+    },
+    {
+      "firstName": "Big Head Todd & The Monsters",
+      "lastName": "",
+      "name_ar": "بيج هيد تود آند ذا مونسترز",
+      "group": true
+    },
+    {
+      "firstName": "Andrew",
+      "lastName": "Bird",
+      "name_ar": "أندرو بيرد",
+      "group": false
+    },
+    {
+      "firstName": "The Black Crowes",
+      "lastName": "",
+      "name_ar": "ذا بلاك كروز",
+      "group": true
+    },
+    {
+      "firstName": "The Black Keys",
+      "lastName": "",
+      "name_ar": "ذا بلاك كيز",
+      "group": true
+    },
+    {
+      "firstName": "The Black Eyed Peas",
+      "lastName": "",
+      "name_ar": "ذا بلاك آيد بيز",
+      "group": true
+    },
+    {
+      "firstName": "Black",
+      "lastName": "Pumas",
+      "name_ar": "بلاك بوماس",
+      "group": false
+    },
+    {
+      "firstName": "Blessid Union of Souls",
+      "lastName": "",
+      "name_ar": "بليسيد يونيون أوف سولز",
+      "group": true
+    },
+    {
+      "firstName": "Björk",
+      "lastName": "",
+      "name_ar": "بيورك",
+      "group": false
+    },
+    {
+      "firstName": "Aloe",
+      "lastName": "Blacc",
+      "name_ar": "ألو بلاك",
+      "group": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "Blake",
+      "name_ar": "جيمس بليك",
+      "group": false
+    },
+    {
+      "firstName": "Blonde",
+      "lastName": "Redhead",
+      "name_ar": "بلوند ريد هيد",
+      "group": false
+    },
+    {
+      "firstName": "Blondie",
+      "lastName": "",
+      "name_ar": "بلوندي",
+      "group": false
+    },
+    {
+      "firstName": "Blind",
+      "lastName": "Faith",
+      "name_ar": "بليند فيث",
+      "group": false
+    },
+    {
+      "firstName": "Blind",
+      "lastName": "Melon",
+      "name_ar": "بليند ميلون",
+      "group": false
+    },
+    {
+      "firstName": "Blue",
+      "lastName": "Merle",
+      "name_ar": "بلو ميرل",
+      "group": false
+    },
+    {
+      "firstName": "The Blue Nile",
+      "lastName": "",
+      "name_ar": "ذا بلو نايل",
+      "group": true
+    },
+    {
+      "firstName": "Blue",
+      "lastName": "October",
+      "name_ar": "بلو أكتوبر",
+      "group": false
+    },
+    {
+      "firstName": "Blue Öyster Cult",
+      "lastName": "",
+      "name_ar": "بلو أويستر كالت",
+      "group": true
+    },
+    {
+      "firstName": "Blue",
+      "lastName": "Rodeo",
+      "name_ar": "بلو روديو",
+      "group": false
+    },
+    {
+      "firstName": "Blues",
+      "lastName": "Traveler",
+      "name_ar": "بلوز ترافيلر",
+      "group": false
+    },
+    {
+      "firstName": "The Moody Blues",
+      "lastName": "",
+      "name_ar": "ذا مودي بلوز",
+      "group": true
+    },
+    {
+      "firstName": "James",
+      "lastName": "Blunt",
+      "name_ar": "جيمس بلانت",
+      "group": false
+    },
+    {
+      "firstName": "Blur",
+      "lastName": "",
+      "name_ar": "بلور",
+      "group": false
+    },
+    {
+      "firstName": "Bon",
+      "lastName": "Iver",
+      "name_ar": "بون إيفر",
+      "group": false
+    },
+    {
+      "firstName": "Boozoo",
+      "lastName": "Bajou",
+      "name_ar": "بوزو باجو",
+      "group": false
+    },
+    {
+      "firstName": "Børns",
+      "lastName": "",
+      "name_ar": "بورنس",
+      "group": false
+    },
+    {
+      "firstName": "Boston",
+      "lastName": "(band)",
+      "name_ar": "بوسطن",
+      "group": false
+    },
+    {
+      "firstName": "Boy & Bear",
+      "lastName": "",
+      "name_ar": "بوي آند بير",
+      "group": true
+    },
+    {
+      "firstName": "Boy",
+      "lastName": "Pablo",
+      "name_ar": "بوي بابلو",
+      "group": false
+    },
+    {
+      "firstName": "Boygenius",
+      "lastName": "",
+      "name_ar": "بويجينياس",
+      "group": false
+    },
+    {
+      "firstName": "Butterfly",
+      "lastName": "Boucher",
+      "name_ar": "بترفلاي بوتشر",
+      "group": false
+    },
+    {
+      "firstName": "David",
+      "lastName": "Bowie",
+      "name_ar": "ديفيد بوي",
+      "group": false
+    },
+    {
+      "firstName": "Charles",
+      "lastName": "Bradley",
+      "name_ar": "تشارلز برادلي",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Bravery",
+      "name_ar": "ذا برافري",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Breeders",
+      "name_ar": "ذا بريديرز",
+      "group": false
+    },
+    {
+      "firstName": "Edie Brickell & the New Bohemians",
+      "lastName": "",
+      "name_ar": "إيدي بريكل آند ذا نيو بوهيميانز",
+      "group": true
+    },
+    {
+      "firstName": "Broken",
+      "lastName": "Bells",
+      "name_ar": "بروكن بيلز",
+      "group": false
+    },
+    {
+      "firstName": "Leon",
+      "lastName": "Bridges",
+      "name_ar": "ليون بريدجز",
+      "group": false
+    },
+    {
+      "firstName": "Jonatha",
+      "lastName": "Brooke",
+      "name_ar": "جوناثا بروك",
+      "group": false
+    },
+    {
+      "firstName": "Meredith",
+      "lastName": "Brooks",
+      "name_ar": "ميريديث بروكس",
+      "group": false
+    },
+    {
+      "firstName": "Marc",
+      "lastName": "Broussard",
+      "name_ar": "مارك بروسارد",
+      "group": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "Brown",
+      "name_ar": "جيمس براون",
+      "group": false
+    },
+    {
+      "firstName": "Jackson",
+      "lastName": "Browne",
+      "name_ar": "جاكسون براون",
+      "group": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Bublé",
+      "name_ar": "مايكل بوبليه",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/BIbMb6Bt7DZmTJc7-rtjqv6O59VwHZoQFXzimz3F5u_4Qm9qmvklKfEXCuYmyV2T-k_bkpjnZg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Buckley",
+      "name_ar": "جيف باكلي",
+      "group": false
+    },
+    {
+      "firstName": "Bully",
+      "lastName": "",
+      "name_ar": "بولي",
+      "group": false
+    },
+    {
+      "firstName": "Kate",
+      "lastName": "Bush",
+      "name_ar": "كيت بوش",
+      "group": false
+    },
+    {
+      "firstName": "Bush",
+      "lastName": "",
+      "group": true,
+      "name_ar": "شجيرة"
+    },
+    {
+      "firstName": "John Butler Trio",
+      "lastName": "",
+      "name_ar": "جون باتلر تريو",
+      "group": true
+    },
+    {
+      "firstName": "David",
+      "lastName": "Byrne",
+      "name_ar": "ديفيد بيرن",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Byrds",
+      "name_ar": "ذا بيردز",
+      "group": false
+    },
+    {
+      "firstName": "Cage The Elephant",
+      "lastName": "",
+      "name_ar": "كايج ذا إليفانت",
+      "group": true
+    },
+    {
+      "firstName": "Camila",
+      "lastName": "Cabello",
+      "name_ar": "كاميلا كابيلو",
+      "group": false
+    },
+    {
+      "firstName": "Carla",
+      "lastName": "Olson",
+      "name_ar": "كارلا أولسون",
+      "group": false
+    },
+    {
+      "firstName": "Caro",
+      "lastName": "Emerald",
+      "name_ar": "كارو إميرالد",
+      "group": false
+    },
+    {
+      "firstName": "Colbie",
+      "lastName": "Caillat",
+      "name_ar": "كولبي كايلا",
+      "group": false
+    },
+    {
+      "firstName": "Cake",
+      "lastName": "",
+      "name_ar": "كيك",
+      "group": false
+    },
+    {
+      "firstName": "Carbon",
+      "lastName": "Leaf",
+      "name_ar": "كاربون ليف",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Cardigans",
+      "name_ar": "ذا كاردينز",
+      "group": false
+    },
+    {
+      "firstName": "Mariah",
+      "lastName": "Carey",
+      "name_ar": "ماريا كاري",
+      "group": false
+    },
+    {
+      "firstName": "Brandi",
+      "lastName": "Carlile",
+      "name_ar": "براندي كارلايل",
+      "group": false
+    },
+    {
+      "firstName": "Belinda",
+      "lastName": "Carlisle",
+      "name_ar": "بيليندا كارلايل",
+      "group": false
+    },
+    {
+      "firstName": "Vanessa",
+      "lastName": "Carlton",
+      "name_ar": "فانيسا كارلتون",
+      "group": false
+    },
+    {
+      "firstName": "Reeve",
+      "lastName": "Carney",
+      "name_ar": "ريف كارني",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Cars",
+      "name_ar": "ذا كارز",
+      "group": false
+    },
+    {
+      "firstName": "Neko",
+      "lastName": "Case",
+      "name_ar": "نيكو كيس",
+      "group": false
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Cash",
+      "name_ar": "جوني كاش",
+      "group": false
+    },
+    {
+      "firstName": "Chance the Rapper",
+      "lastName": "",
+      "name_ar": "تشانس ذا رابر",
+      "group": true
+    },
+    {
+      "firstName": "Tracy",
+      "lastName": "Chapman",
+      "name_ar": "تريسي تشابمان",
+      "group": false
+    },
+    {
+      "firstName": "Chicago",
+      "lastName": "",
+      "name_ar": "شيكاغو",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Chicks",
+      "name_ar": "ذا تشيكس",
+      "group": false
+    },
+    {
+      "firstName": "Toni",
+      "lastName": "Childs",
+      "name_ar": "توني تشايلدز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Church",
+      "name_ar": "ذا تشيرش",
+      "group": false
+    },
+    {
+      "firstName": "The Civil Wars",
+      "lastName": "",
+      "name_ar": "ذا سيفيل وورز",
+      "group": true
+    },
+    {
+      "firstName": "Clairo",
+      "lastName": "",
+      "name_ar": "كليرو",
+      "group": false,
+      "alt": "Claire Cottrill",
+      "image": "https://yt3.googleusercontent.com/WYRfktv_Es81oMIK5BSVJn3J5cwk4hqcRvT9_BFHuWhGgGTWk9w5HUkT7LSCbDXZ8kmuLWLzNw=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Clapton",
+      "name_ar": "إريك كلابتون",
+      "group": false
+    },
+    {
+      "firstName": "Gary Clark, Jr.",
+      "lastName": "",
+      "name_ar": "غاري كلارك جونيور",
+      "group": true
+    },
+    {
+      "firstName": "Guy",
+      "lastName": "Clark",
+      "name_ar": "غاي كلارك",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Clash",
+      "name_ar": "ذا كلاش",
+      "group": false
+    },
+    {
+      "firstName": "Kelly",
+      "lastName": "Clarkson",
+      "name_ar": "كيلي كلاركسون",
+      "group": false
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Cochrane",
+      "name_ar": "توم كوكران",
+      "group": false
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Cockburn",
+      "name_ar": "بروس كوكبورن",
+      "group": false
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Cocker",
+      "name_ar": "جو كوكر",
+      "group": false
+    },
+    {
+      "firstName": "Marc",
+      "lastName": "Cohn",
+      "name_ar": "مارك كوهين",
+      "group": false
+    },
+    {
+      "firstName": "Cold War Kids",
+      "lastName": "",
+      "name_ar": "كولد وور كيدز",
+      "group": true
+    },
+    {
+      "firstName": "Coldplay",
+      "lastName": "",
+      "name_ar": "كولدبلاي",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/vWWn3HO1emNl2iGb08UuY4q_OtqXwUUWJMjMDr6bBPpuCBoWg-dE_Gu-yoMQNrBqb2gMzA3wLQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Jude",
+      "lastName": "Cole",
+      "name_ar": "جود كول",
+      "group": false
+    },
+    {
+      "firstName": "Lloyd",
+      "lastName": "Cole",
+      "name_ar": "لويد كول",
+      "group": false
+    },
+    {
+      "firstName": "Paula",
+      "lastName": "Cole",
+      "name_ar": "بولا كول",
+      "group": false
+    },
+    {
+      "firstName": "Collective",
+      "lastName": "Soul",
+      "name_ar": "كولكتيف سول",
+      "group": false
+    },
+    {
+      "firstName": "Phil",
+      "lastName": "Collins",
+      "name_ar": "فيل كولينز",
+      "group": false
+    },
+    {
+      "firstName": "Shawn",
+      "lastName": "Colvin",
+      "name_ar": "شون كولفين",
+      "group": false
+    },
+    {
+      "firstName": "Bad",
+      "lastName": "Company",
+      "name_ar": "باد كومباني",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Corrs",
+      "name_ar": "ذا كورز",
+      "group": false
+    },
+    {
+      "firstName": "Matt",
+      "lastName": "Costa",
+      "name_ar": "مات كوستا",
+      "group": false
+    },
+    {
+      "firstName": "Elvis",
+      "lastName": "Costello",
+      "name_ar": "إلفيس كوستيلو",
+      "group": false
+    },
+    {
+      "firstName": "Christopher",
+      "lastName": "Cross",
+      "name_ar": "كريستوفر كروس",
+      "group": false
+    },
+    {
+      "firstName": "Chappell",
+      "lastName": "Roan",
+      "name_ar": "تشابل روان",
+      "group": false
+    },
+    {
+      "firstName": "Counting",
+      "lastName": "Crows",
+      "name_ar": "كاونتينغ كروز",
+      "group": false
+    },
+    {
+      "firstName": "Cowboy",
+      "lastName": "Junkies",
+      "name_ar": "كاوبوي جنكيز",
+      "group": false
+    },
+    {
+      "firstName": "Cowboy",
+      "lastName": "Mouth",
+      "name_ar": "كاوبوي ماوث",
+      "group": false
+    },
+    {
+      "firstName": "Cracker",
+      "lastName": "",
+      "name_ar": "كراكر",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Cranberries",
+      "name_ar": "ذا كرانبيريز",
+      "group": false
+    },
+    {
+      "firstName": "Crash Test Dummies",
+      "lastName": "",
+      "name_ar": "كراش تيست دامييز",
+      "group": true
+    },
+    {
+      "firstName": "Cream",
+      "lastName": "",
+      "name_ar": "كريم",
+      "group": true
+    },
+    {
+      "firstName": "Creedence Clearwater Revival",
+      "lastName": "",
+      "name_ar": "كريدنس كليرواتر ريفايفال",
+      "group": true
+    },
+    {
+      "firstName": "King",
+      "lastName": "Crimson",
+      "name_ar": "كينغ كريمسون",
+      "group": false
+    },
+    {
+      "firstName": "Crosby, Stills, Nash & Young",
+      "lastName": "",
+      "name_ar": "كروسبي، ستيلز، ناش ويونغ",
+      "group": true
+    },
+    {
+      "firstName": "Sheryl",
+      "lastName": "Crow",
+      "name_ar": "شيريل كرو",
+      "group": false
+    },
+    {
+      "firstName": "Crowded",
+      "lastName": "House",
+      "name_ar": "كراوديد هاوس",
+      "group": false
+    },
+    {
+      "firstName": "Mötley",
+      "lastName": "Crüe",
+      "name_ar": "موتلي كرو",
+      "group": false
+    },
+    {
+      "firstName": "Ice",
+      "lastName": "Cube",
+      "name_ar": "آيس كيوب",
+      "group": false
+    },
+    {
+      "firstName": "Jim",
+      "lastName": "Cuddy",
+      "name_ar": "جيم كودي",
+      "group": false
+    },
+    {
+      "firstName": "Cuff the Duke",
+      "lastName": "",
+      "name_ar": "كف ذا ديوك",
+      "group": true
+    },
+    {
+      "firstName": "Jamie",
+      "lastName": "Cullum",
+      "name_ar": "جيمي كولوم",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Cure",
+      "name_ar": "ذا كيور",
+      "group": false
+    },
+    {
+      "firstName": "Cypress",
+      "lastName": "Hill",
+      "name_ar": "سايبريس هيل",
+      "group": false
+    },
+    {
+      "firstName": "Billy Ray Cyrus",
+      "lastName": "",
+      "name_ar": "بيلي راي سايرس",
+      "group": true
+    },
+    {
+      "firstName": "Miley",
+      "lastName": "Cyrus",
+      "name_ar": "مايلي سايرس",
+      "group": false
+    },
+    {
+      "firstName": "Daft",
+      "lastName": "Punk",
+      "name_ar": "دافت بانك",
+      "group": false
+    },
+    {
+      "firstName": "The Dandy Warhols",
+      "lastName": "",
+      "name_ar": "ذا داندي وارهولز",
+      "group": true
+    },
+    {
+      "firstName": "Vanessa",
+      "lastName": "Daou",
+      "name_ar": "فانيسا داو",
+      "group": false
+    },
+    {
+      "firstName": "Dave Matthews Band",
+      "lastName": "",
+      "name_ar": "ديف ماثيوز باند",
+      "group": true
+    },
+    {
+      "firstName": "Dave Clark Five",
+      "lastName": "",
+      "name_ar": "ديف كلارك فايف",
+      "group": true
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Davis",
+      "name_ar": "بول ديفيس",
+      "group": false
+    },
+    {
+      "firstName": "Dawes",
+      "lastName": "",
+      "name_ar": "داوز",
+      "group": false
+    },
+    {
+      "firstName": "Howie",
+      "lastName": "Day",
+      "name_ar": "هاوي داي",
+      "group": false
+    },
+    {
+      "firstName": "dc",
+      "lastName": "Talk",
+      "name_ar": "دي سي توك",
+      "group": false
+    },
+    {
+      "firstName": "De La Soul",
+      "lastName": "",
+      "name_ar": "دي لا سول",
+      "group": true
+    },
+    {
+      "firstName": "Dead or Alive",
+      "lastName": "",
+      "name_ar": "ديد أور ألايف",
+      "group": true
+    },
+    {
+      "firstName": "Deadmau5",
+      "lastName": "",
+      "name_ar": "ديدماوس",
+      "group": false
+    },
+    {
+      "firstName": "Death Cab for Cutie",
+      "lastName": "",
+      "name_ar": "ديث كاب فور كيوتي",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Decemberists",
+      "name_ar": "ذا ديسيمبريستس",
+      "group": false
+    },
+    {
+      "firstName": "Def",
+      "lastName": "Leppard",
+      "name_ar": "ديف ليبارد",
+      "group": false
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "DeGraw",
+      "name_ar": "غافين ديغرو",
+      "group": false
+    },
+    {
+      "firstName": "Del",
+      "lastName": "Amitri",
+      "name_ar": "ديل أميتري",
+      "group": false
+    },
+    {
+      "firstName": "Demillusion",
+      "lastName": "",
+      "name_ar": "ديميلوشن",
+      "group": false
+    },
+    {
+      "firstName": "Lana Del Rey",
+      "lastName": "",
+      "name_ar": "لانا ديل راي",
+      "group": true
+    },
+    {
+      "firstName": "Delta",
+      "lastName": "Spirit",
+      "name_ar": "دلتا سبيريت",
+      "group": false
+    },
+    {
+      "firstName": "Rocco",
+      "lastName": "DeLuca",
+      "name_ar": "روكو ديلوكا",
+      "group": false
+    },
+    {
+      "firstName": "Brett",
+      "lastName": "Dennen",
+      "name_ar": "بريت دينين",
+      "group": false
+    },
+    {
+      "firstName": "Depeche",
+      "lastName": "Mode",
+      "name_ar": "ديبيش مود",
+      "group": false
+    },
+    {
+      "firstName": "Derek & the Dominos",
+      "lastName": "",
+      "name_ar": "ديريك آند ذا دومينوز",
+      "group": true
+    },
+    {
+      "firstName": "Derek Trucks Band",
+      "lastName": "",
+      "name_ar": "ديريك تروكس باند",
+      "group": true
+    },
+    {
+      "firstName": "Destiny's",
+      "lastName": "Child",
+      "name_ar": "ديستنيز تشايلد",
+      "group": false
+    },
+    {
+      "firstName": "Devo",
+      "lastName": "",
+      "name_ar": "ديفو",
+      "group": false
+    },
+    {
+      "firstName": "Dido",
+      "lastName": "",
+      "name_ar": "ديدو",
+      "group": false
+    },
+    {
+      "firstName": "Dinosaur Jr.",
+      "lastName": "",
+      "name_ar": "ديناصور جونيور",
+      "group": false
+    },
+    {
+      "firstName": "Dire",
+      "lastName": "Straits",
+      "name_ar": "داير ستريتس",
+      "group": false
+    },
+    {
+      "firstName": "Thomas",
+      "lastName": "Dolby",
+      "name_ar": "توماس دولبي",
+      "group": false
+    },
+    {
+      "firstName": "Pussycat",
+      "lastName": "Dolls",
+      "name_ar": "بوسي كات دولز",
+      "group": false
+    },
+    {
+      "firstName": "Doobie",
+      "lastName": "Brothers",
+      "name_ar": "دوبي براذرز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Doors",
+      "name_ar": "ذا دورز",
+      "group": false
+    },
+    {
+      "firstName": "Luke",
+      "lastName": "Doucet",
+      "name_ar": "لوك دوسيت",
+      "group": false
+    },
+    {
+      "firstName": "Mike",
+      "lastName": "Doughty",
+      "name_ar": "مايك دوغتي",
+      "group": false
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Drake",
+      "name_ar": "نيك دريك",
+      "group": false
+    },
+    {
+      "firstName": "Drake",
+      "lastName": "",
+      "name_ar": "دريك",
+      "group": false
+    },
+    {
+      "firstName": "Drive By Truckers",
+      "lastName": "",
+      "name_ar": "درايف باي تروكرز",
+      "group": true
+    },
+    {
+      "firstName": "Duran",
+      "lastName": "Duran",
+      "name_ar": "دوران دوران",
+      "group": false
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Dylan",
+      "name_ar": "بوب ديلان",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/UHm5iu7_Os2Vs1tZVoodOsFdryfyzV--ADHrnREa17N1w2khG26k_KthClVHnAE6QMLk0IBres0=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Jakob",
+      "lastName": "Dylan",
+      "name_ar": "جاكوب ديلان",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Eagles",
+      "name_ar": "ذا إيغلز",
+      "group": false
+    },
+    {
+      "firstName": "Justin Townes Earle",
+      "lastName": "",
+      "name_ar": "جاستن تاونز إيرل",
+      "group": true
+    },
+    {
+      "firstName": "Earth, Wind & Fire",
+      "lastName": "",
+      "name_ar": "إيرث، ويند & فاير",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_mVx0kL_1H56Pmy6xDWOVaYXmoy67Xi27uQsbnmm8oUFA4=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Anderson",
+      "lastName": "East",
+      "name_ar": "أندرسون إيست",
+      "group": false
+    },
+    {
+      "firstName": "Echo & the Bunnymen",
+      "lastName": "",
+      "name_ar": "إيكو آند ذا بانيمن",
+      "group": true
+    },
+    {
+      "firstName": "Echosmith",
+      "lastName": "",
+      "name_ar": "إيكوسميث",
+      "group": false
+    },
+    {
+      "firstName": "EDEN",
+      "lastName": "",
+      "name_ar": "إيدن",
+      "group": false
+    },
+    {
+      "firstName": "Edward Sharpe and the Magnetic Zeros",
+      "lastName": "",
+      "name_ar": "إدوارد شارب آند ذا ماجنيتيك زيروز",
+      "group": true
+    },
+    {
+      "firstName": "Kathleen",
+      "lastName": "Edwards",
+      "name_ar": "كاثلين إدواردز",
+      "group": false
+    },
+    {
+      "firstName": "Eels",
+      "lastName": "",
+      "name_ar": "إيلز",
+      "group": false
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Eitzel",
+      "name_ar": "مارك إيتزل",
+      "group": false
+    },
+    {
+      "firstName": "Billie",
+      "lastName": "Eilish",
+      "name_ar": "بيلي ايليش",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/dirvtoDAmx-u0UR76-pxfhYL6Wxj2vfL2geUcxDwk62tTWWhGG6QDGc63RG3NdOz38-yBwRHDQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Ariana",
+      "lastName": "Grande",
+      "name_ar": "أريانا غراندي",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/vLWO1tajYHyFJ3lGkcMxKMayA-ZNUqCUYj5bOO8TWhNVL7EV-bjxmguUkZ3B2dMsAtZYir8r=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Elephant",
+      "lastName": "Stone",
+      "name_ar": "إليفانت ستون",
+      "group": false
+    },
+    {
+      "firstName": "Elliphant",
+      "lastName": "",
+      "name_ar": "إيليفانت",
+      "group": false
+    },
+    {
+      "firstName": "Eminem",
+      "lastName": "",
+      "name_ar": "إمينيم",
+      "group": false
+    },
+    {
+      "firstName": "Enya",
+      "lastName": "",
+      "name_ar": "إينيا",
+      "group": false
+    },
+    {
+      "firstName": "Melissa",
+      "lastName": "Etheridge",
+      "name_ar": "ميليسا إثريدج",
+      "group": false
+    },
+    {
+      "firstName": "Sharon Van Etten",
+      "lastName": "",
+      "name_ar": "شارون فان إيتن",
+      "group": true
+    },
+    {
+      "firstName": "Europe",
+      "lastName": "",
+      "name_ar": "يوروب",
+      "group": false
+    },
+    {
+      "firstName": "Eurythmics",
+      "lastName": "",
+      "name_ar": "يوريزمكس",
+      "group": false
+    },
+    {
+      "firstName": "Evanescence",
+      "lastName": "",
+      "name_ar": "إيفانيسنس",
+      "group": false
+    },
+    {
+      "firstName": "George",
+      "lastName": "Ezra",
+      "name_ar": "جورج إزرا",
+      "group": false
+    },
+    {
+      "firstName": "Faces",
+      "lastName": "",
+      "name_ar": "فيسز",
+      "group": false
+    },
+    {
+      "firstName": "Small",
+      "lastName": "Faces",
+      "name_ar": "سمول فيسز",
+      "group": false
+    },
+    {
+      "firstName": "Donald",
+      "lastName": "Fagen",
+      "name_ar": "دونالد فاجن",
+      "group": false
+    },
+    {
+      "firstName": "Fair to Midland",
+      "lastName": "",
+      "name_ar": "فير تو ميدلاند",
+      "group": true
+    },
+    {
+      "firstName": "The Fall of Troy",
+      "lastName": "",
+      "name_ar": "ذا فول أوف تروي",
+      "group": true
+    },
+    {
+      "firstName": "Fall Out Boy",
+      "lastName": "",
+      "name_ar": "فال أوت بوي",
+      "group": true
+    },
+    {
+      "firstName": "Family of the Year",
+      "lastName": "",
+      "name_ar": "فاميلي أوف ذا يير",
+      "group": true
+    },
+    {
+      "firstName": "Fanfarlo",
+      "lastName": "",
+      "name_ar": "فانفارلو",
+      "group": false
+    },
+    {
+      "firstName": "Fastball",
+      "lastName": "",
+      "name_ar": "فاستبول",
+      "group": false
+    },
+    {
+      "firstName": "Fatboy",
+      "lastName": "Slim",
+      "name_ar": "فاتبوي سليم",
+      "group": false
+    },
+    {
+      "firstName": "Feist",
+      "lastName": "",
+      "name_ar": "فايسيت",
+      "group": false
+    },
+    {
+      "firstName": "Fergie",
+      "lastName": "",
+      "name_ar": "فيرجي",
+      "group": false
+    },
+    {
+      "firstName": "Rebecca",
+      "lastName": "Ferguson",
+      "name_ar": "ريبيكا فيرغسون",
+      "group": false
+    },
+    {
+      "firstName": "Filter",
+      "lastName": "",
+      "name_ar": "فلتر",
+      "group": false
+    },
+    {
+      "firstName": "A Fine Frenzy",
+      "lastName": "",
+      "name_ar": "أ فاين فرينزي",
+      "group": true
+    },
+    {
+      "firstName": "Finn",
+      "lastName": "Brothers",
+      "name_ar": "فين براذرز",
+      "group": false
+    },
+    {
+      "firstName": "Craig",
+      "lastName": "Finn",
+      "name_ar": "كريغ فين",
+      "group": false
+    },
+    {
+      "firstName": "Neil",
+      "lastName": "Finn",
+      "name_ar": "نيل فين",
+      "group": false
+    },
+    {
+      "firstName": "First Aid Kit",
+      "lastName": "",
+      "name_ar": "فيرست إيد كيت",
+      "group": true
+    },
+    {
+      "firstName": "Jeremy",
+      "lastName": "Fisher",
+      "name_ar": "جيريمي فيشر",
+      "group": false
+    },
+    {
+      "firstName": "Fitz and the Tantrums",
+      "lastName": "",
+      "name_ar": "فيتز آند ذا تانترومز",
+      "group": true
+    },
+    {
+      "firstName": "Ella",
+      "lastName": "Fitzgerald",
+      "name_ar": "إيلا فيتزجيرالد",
+      "group": false
+    },
+    {
+      "firstName": "Five for Fighting",
+      "lastName": "",
+      "name_ar": "فايف فور فايتينغ",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Fixx",
+      "name_ar": "ذا فيكس",
+      "group": false
+    },
+    {
+      "firstName": "The Flaming Lips",
+      "lastName": "",
+      "name_ar": "ذا فلامينغ ليبس",
+      "group": true
+    },
+    {
+      "firstName": "Fleet",
+      "lastName": "Foxes",
+      "name_ar": "فليت فوكسز",
+      "group": false
+    },
+    {
+      "firstName": "Fleetwood",
+      "lastName": "Mac",
+      "name_ar": "فليتوود ماك",
+      "group": false
+    },
+    {
+      "firstName": "Flight of the Conchords",
+      "lastName": "",
+      "name_ar": "فلايت أوف ذا كونشوردز",
+      "group": true
+    },
+    {
+      "firstName": "Florence & the Machine",
+      "lastName": "",
+      "name_ar": "فلورنس آند ذا ماشين",
+      "group": true
+    },
+    {
+      "firstName": "John",
+      "lastName": "Fogerty",
+      "name_ar": "جون فوجيرتي",
+      "group": false
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Folds",
+      "name_ar": "بن فولدز",
+      "group": false
+    },
+    {
+      "firstName": "Fontaines",
+      "lastName": "D.C.",
+      "name_ar": "فونتينز دي سي",
+      "group": false
+    },
+    {
+      "firstName": "David",
+      "lastName": "Ford",
+      "name_ar": "ديفيد فورد",
+      "group": false
+    },
+    {
+      "firstName": "Foreigner",
+      "lastName": "",
+      "name_ar": "فورينر",
+      "group": false
+    },
+    {
+      "firstName": "Foo",
+      "lastName": "Fighters",
+      "name_ar": "فو فايترز",
+      "group": false
+    },
+    {
+      "firstName": "Julia",
+      "lastName": "Fordham",
+      "name_ar": "جوليا فوردام",
+      "group": false
+    },
+    {
+      "firstName": "Foster the People",
+      "lastName": "",
+      "name_ar": "فوستر ذا بيبول",
+      "group": true
+    },
+    {
+      "firstName": "Four",
+      "lastName": "Tops",
+      "name_ar": "فور توبس",
+      "group": false
+    },
+    {
+      "firstName": "Donavon",
+      "lastName": "Frankenreiter",
+      "name_ar": "دونافون فرانكنريتر",
+      "group": false
+    },
+    {
+      "firstName": "Aretha",
+      "lastName": "Franklin",
+      "name_ar": "أريثا فرانكلين",
+      "group": false
+    },
+    {
+      "firstName": "Michael Franti & Spearhead",
+      "lastName": "",
+      "name_ar": "مايكل فرانتي آند سبيرهيد",
+      "group": true
+    },
+    {
+      "firstName": "Franz",
+      "lastName": "Ferdinand",
+      "name_ar": "فرانز فرديناند",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Fray",
+      "name_ar": "ذا فراي",
+      "group": false
+    },
+    {
+      "firstName": "Freddy",
+      "lastName": "Fresh",
+      "name_ar": "فريدي فريش",
+      "group": false
+    },
+    {
+      "firstName": "Free",
+      "lastName": "",
+      "name_ar": "فري",
+      "group": false
+    },
+    {
+      "firstName": "Fun.",
+      "lastName": "",
+      "name_ar": "فن.",
+      "group": false
+    },
+    {
+      "firstName": "G. Love & Special Sauce",
+      "lastName": "",
+      "name_ar": "جي لوف آند سبيشل سوس",
+      "group": true
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Gabriel",
+      "name_ar": "بيتر غابرييل",
+      "group": false
+    },
+    {
+      "firstName": "Lady",
+      "lastName": "Gaga",
+      "name_ar": "ليدي غاغا",
+      "group": false
+    },
+    {
+      "firstName": "The Gap Band",
+      "lastName": "",
+      "name_ar": "ذا غاب باند",
+      "group": true
+    },
+    {
+      "firstName": "Garbage",
+      "lastName": "",
+      "name_ar": "غاربج",
+      "group": false
+    },
+    {
+      "firstName": "Art",
+      "lastName": "Garfunkel",
+      "name_ar": "آرت غارفنكل",
+      "group": false
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Garratt",
+      "name_ar": "جاك غارات",
+      "group": false
+    },
+    {
+      "firstName": "Marvin",
+      "lastName": "Gaye",
+      "name_ar": "مارفن غاي",
+      "group": false
+    },
+    {
+      "firstName": "Genesis",
+      "lastName": "",
+      "name_ar": "جينيسيس",
+      "group": false
+    },
+    {
+      "firstName": "Andy",
+      "lastName": "Gibb",
+      "name_ar": "آندي غيب",
+      "group": false
+    },
+    {
+      "firstName": "Gin",
+      "lastName": "Blossoms",
+      "name_ar": "جين بلوسومز",
+      "group": false
+    },
+    {
+      "firstName": "Givers",
+      "lastName": "",
+      "name_ar": "غيفرز",
+      "group": false
+    },
+    {
+      "firstName": "Glass",
+      "lastName": "Animals",
+      "name_ar": "غلاس أنيمالز",
+      "group": false
+    },
+    {
+      "firstName": "Donald",
+      "lastName": "Glover",
+      "name_ar": "دونالد غلوفر",
+      "group": false
+    },
+    {
+      "firstName": "Gnarls",
+      "lastName": "Barkley",
+      "name_ar": "نارلز باركلي",
+      "group": false
+    },
+    {
+      "firstName": "Goldfrapp",
+      "lastName": "",
+      "name_ar": "غولدفراب",
+      "group": false
+    },
+    {
+      "firstName": "Gomez",
+      "lastName": "",
+      "name_ar": "غوميز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Go-Gos",
+      "name_ar": "ذا غو-غوز",
+      "group": false
+    },
+    {
+      "firstName": "Goo Goo Dolls",
+      "lastName": "",
+      "name_ar": "غو غو دولز",
+      "group": true
+    },
+    {
+      "firstName": "Gorillaz",
+      "lastName": "",
+      "name_ar": "غوريلاز",
+      "group": false
+    },
+    {
+      "firstName": "Gotye",
+      "lastName": "",
+      "name_ar": "غوتييه",
+      "group": false
+    },
+    {
+      "firstName": "Ellie",
+      "lastName": "Goulding",
+      "name_ar": "إيلي غولدينغ",
+      "group": false
+    },
+    {
+      "firstName": "Grace Potter & the Nocturnals",
+      "lastName": "",
+      "name_ar": "غريس بوتر آند ذا نوكتورنالز",
+      "group": true
+    },
+    {
+      "firstName": "Graffiti6",
+      "lastName": "",
+      "name_ar": "غرافيتي 6",
+      "group": false
+    },
+    {
+      "firstName": "Andy",
+      "lastName": "Grammer",
+      "name_ar": "آندي غرامر",
+      "group": false
+    },
+    {
+      "firstName": "Grand Funk Railroad",
+      "lastName": "",
+      "name_ar": "غراند فانك ريلرود",
+      "group": true
+    },
+    {
+      "firstName": "Jenn",
+      "lastName": "Grant",
+      "name_ar": "جين غرانت",
+      "group": false
+    },
+    {
+      "firstName": "Grant Lee Buffalo",
+      "lastName": "",
+      "name_ar": "غرانت لي بوفالو",
+      "group": true
+    },
+    {
+      "firstName": "Grateful",
+      "lastName": "Dead",
+      "name_ar": "غريتفل ديد",
+      "group": false
+    },
+    {
+      "firstName": "David",
+      "lastName": "Gray",
+      "name_ar": "ديفيد غراي",
+      "group": false
+    },
+    {
+      "firstName": "Great Lake Swimmers",
+      "lastName": "",
+      "name_ar": "غريت ليك سويمرز",
+      "group": true
+    },
+    {
+      "firstName": "Al",
+      "lastName": "Green",
+      "name_ar": "آل غرين",
+      "group": false
+    },
+    {
+      "firstName": "Green",
+      "lastName": "Day",
+      "name_ar": "غرين داي",
+      "group": false
+    },
+    {
+      "firstName": "The Greg Kihn Band",
+      "lastName": "",
+      "name_ar": "ذا غريغ كين باند",
+      "group": true
+    },
+    {
+      "firstName": "Patty",
+      "lastName": "Griffin",
+      "name_ar": "باتي غريفين",
+      "group": false
+    },
+    {
+      "firstName": "Grizzly",
+      "lastName": "Bear",
+      "name_ar": "غريزلي بير",
+      "group": false
+    },
+    {
+      "firstName": "Grouplove",
+      "lastName": "",
+      "name_ar": "غروب لوف",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Growlers",
+      "name_ar": "ذا غروولرز",
+      "group": false
+    },
+    {
+      "firstName": "Guns N' Roses",
+      "lastName": "",
+      "name_ar": "غانز آن روزز",
+      "group": true
+    },
+    {
+      "firstName": "Guster",
+      "lastName": "",
+      "name_ar": "غوستر",
+      "group": false
+    },
+    {
+      "firstName": "Trevor",
+      "lastName": "Hall",
+      "name_ar": "تريفور هول",
+      "group": false
+    },
+    {
+      "firstName": "Hall & Oates",
+      "lastName": "",
+      "name_ar": "هول آند أوتس",
+      "group": true
+    },
+    {
+      "firstName": "Halsey",
+      "lastName": "",
+      "name_ar": "هالزي",
+      "group": false
+    },
+    {
+      "firstName": "Ernie",
+      "lastName": "Halter",
+      "name_ar": "إرني هالتر",
+      "group": false
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Harmer",
+      "name_ar": "سارة هارمر",
+      "group": false
+    },
+    {
+      "firstName": "Fifth",
+      "lastName": "Harmony",
+      "name_ar": "فيفث هارموني",
+      "group": false
+    },
+    {
+      "firstName": "Ben",
+      "lastName": "Harper",
+      "name_ar": "بن هاربر",
+      "group": false
+    },
+    {
+      "firstName": "George",
+      "lastName": "Harrison",
+      "name_ar": "جورج هاريسون",
+      "group": false
+    },
+    {
+      "firstName": "PJ",
+      "lastName": "Harvey",
+      "name_ar": "بي جي هارفي",
+      "group": false
+    },
+    {
+      "firstName": "Juliana",
+      "lastName": "Hatfield",
+      "name_ar": "جوليانا هاتفيلد",
+      "group": false
+    },
+    {
+      "firstName": "Mayer",
+      "lastName": "Hawthorne",
+      "name_ar": "ماير هاوثورن",
+      "group": false
+    },
+    {
+      "firstName": "Warren",
+      "lastName": "Haynes",
+      "name_ar": "وارن هاينز",
+      "group": false
+    },
+    {
+      "firstName": "Heart",
+      "lastName": "",
+      "name_ar": "هارت",
+      "group": false
+    },
+    {
+      "firstName": "The Head and the Heart",
+      "lastName": "",
+      "name_ar": "ذا هيد آند ذا هارت",
+      "group": true
+    },
+    {
+      "firstName": "Heartless",
+      "lastName": "Bastards",
+      "name_ar": "هارتلس باستاردز",
+      "group": false
+    },
+    {
+      "firstName": "The Jimi Hendrix Experience",
+      "lastName": "",
+      "name_ar": "ذا جيمي هندريكس إكسبيرينس",
+      "group": true
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Henry",
+      "name_ar": "جو هنري",
+      "group": false
+    },
+    {
+      "firstName": "Kristin",
+      "lastName": "Hersh",
+      "name_ar": "كريستين هيرش",
+      "group": false
+    },
+    {
+      "firstName": "Katie",
+      "lastName": "Herzig",
+      "name_ar": "كاتي هيرزيغ",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Hiatt",
+      "name_ar": "جون هيات",
+      "group": false
+    },
+    {
+      "firstName": "Missy",
+      "lastName": "Higgins",
+      "name_ar": "ميسسي هيغينز",
+      "group": false
+    },
+    {
+      "firstName": "Lauryn",
+      "lastName": "Hill",
+      "name_ar": "لورين هيل",
+      "group": false
+    },
+    {
+      "firstName": "Hockey",
+      "lastName": "",
+      "name_ar": "هوكي",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Hollies",
+      "name_ar": "ذا هوليز",
+      "group": false
+    },
+    {
+      "firstName": "Buddy",
+      "lastName": "Holly",
+      "name_ar": "بادي هولي",
+      "group": false
+    },
+    {
+      "firstName": "Hootie & the Blowfish",
+      "lastName": "",
+      "name_ar": "هوتي آند ذا بلوفيش",
+      "group": true
+    },
+    {
+      "firstName": "Hooverphonic",
+      "lastName": "",
+      "name_ar": "هوفرفونيك",
+      "group": false
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Hornsby",
+      "name_ar": "بروس هورنزبي",
+      "group": false
+    },
+    {
+      "firstName": "House Of Pain",
+      "lastName": "",
+      "name_ar": "هاوس أوف بين",
+      "group": true
+    },
+    {
+      "firstName": "Howlin",
+      "lastName": "Maggie",
+      "name_ar": "هاولين ماجي",
+      "group": false
+    },
+    {
+      "firstName": "The Human League",
+      "lastName": "",
+      "name_ar": "ذا هيومان ليغ",
+      "group": true
+    },
+    {
+      "firstName": "Van",
+      "lastName": "Hunt",
+      "name_ar": "فان هنت",
+      "group": false
+    },
+    {
+      "firstName": "Hurray for the Riff Raff",
+      "lastName": "",
+      "name_ar": "هوري فور ذا ريف راف",
+      "group": true
+    },
+    {
+      "firstName": "Eric",
+      "lastName": "Hutchinson",
+      "name_ar": "إريك هاتشينسون",
+      "group": false
+    },
+    {
+      "firstName": "Icon for Hire",
+      "lastName": "",
+      "name_ar": "آيكون فور هاير",
+      "group": true
+    },
+    {
+      "firstName": "Idles",
+      "lastName": "",
+      "name_ar": "آيدلز",
+      "group": false
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Idol",
+      "name_ar": "بيلي آيدول",
+      "group": false
+    },
+    {
+      "firstName": "Iggy",
+      "lastName": "Pop",
+      "name_ar": "إيغي بوب",
+      "group": false
+    },
+    {
+      "firstName": "iLoveMakonnen",
+      "lastName": "",
+      "name_ar": "آي لوف ماكونين",
+      "group": false
+    },
+    {
+      "firstName": "Imagine Dragons",
+      "lastName": "",
+      "name_ar": "إيماجن دراجونز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/l6ARvvtI4GWlZMV0nMCoatBy6NjJIB_PVK4ZTEpImbspN57kMaSqMHskIPXkgxsiISB0inbO9J4=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Natalie",
+      "lastName": "Imbruglia",
+      "name_ar": "ناتالي إمبروجليا",
+      "group": false
+    },
+    {
+      "firstName": "Incubus",
+      "lastName": "",
+      "name_ar": "إنكوبوس",
+      "group": false
+    },
+    {
+      "firstName": "Indigo",
+      "lastName": "Girls",
+      "name_ar": "إنديغو غيرلز",
+      "group": false
+    },
+    {
+      "firstName": "The Innocence Mission",
+      "lastName": "",
+      "name_ar": "ذا إنوسنس ميشن",
+      "group": true
+    },
+    {
+      "firstName": "Interpol",
+      "lastName": "",
+      "name_ar": "إنترپول",
+      "group": false
+    },
+    {
+      "firstName": "INXS",
+      "lastName": "",
+      "name_ar": "إن إكس إس",
+      "group": false
+    },
+    {
+      "firstName": "Iron & Wine",
+      "lastName": "",
+      "name_ar": "آيرون آند واين",
+      "group": true
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Isaak",
+      "name_ar": "كريس إيزاك",
+      "group": false
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Isbell",
+      "name_ar": "جيسون إيزبل",
+      "group": false
+    },
+    {
+      "firstName": "Islands",
+      "lastName": "",
+      "name_ar": "آيلاندز",
+      "group": false
+    },
+    {
+      "firstName": "Ivy",
+      "lastName": "",
+      "name_ar": "آيفي",
+      "group": false
+    },
+    {
+      "firstName": "Jet",
+      "lastName": "",
+      "name_ar": "جيت",
+      "group": false
+    },
+    {
+      "firstName": "Joan",
+      "lastName": "Jett",
+      "name_ar": "جوان جيت",
+      "group": false
+    },
+    {
+      "firstName": "Joe",
+      "lastName": "Jackson",
+      "name_ar": "جو جاكسون",
+      "group": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Jackson",
+      "name_ar": "مايكل جاكسون",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/nvt02XjPB-lklNBuV8rI9BQOgD1l7geYdJBzTkgoFJTgdK_Fzv_eaoQ9jV4Vb9DWFks0QFzeog=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Janet",
+      "lastName": "Jackson",
+      "name_ar": "جانيت جاكسون",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Jam",
+      "name_ar": "ذا جام",
+      "group": false
+    },
+    {
+      "firstName": "Pearl",
+      "lastName": "Jam",
+      "name_ar": "بيرل جام",
+      "group": false
+    },
+    {
+      "firstName": "Ram",
+      "lastName": "Jam",
+      "name_ar": "رام جام",
+      "group": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "",
+      "name_ar": "جيمس",
+      "group": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "Gang",
+      "name_ar": "جيمس جانغ",
+      "group": false
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Mraz",
+      "name_ar": "جيسون مراز",
+      "group": false
+    },
+    {
+      "firstName": "Rick",
+      "lastName": "James",
+      "name_ar": "ريك جيمس",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Mayer",
+      "name_ar": "جون ماير",
+      "group": false
+    },
+    {
+      "firstName": "Tommy James & The Shondells",
+      "lastName": "",
+      "name_ar": "تومي جيمس آند ذا شونديليس",
+      "group": true
+    },
+    {
+      "firstName": "Jamiroquai",
+      "lastName": "",
+      "name_ar": "جاميروكواي",
+      "group": false
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Jarosz",
+      "name_ar": "سارة جاروز",
+      "group": false
+    },
+    {
+      "firstName": "Jars of Clay",
+      "lastName": "",
+      "name_ar": "جارز أوف كلاي",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Jayhawks",
+      "name_ar": "ذا جايهوكس",
+      "group": false
+    },
+    {
+      "firstName": "Jem",
+      "lastName": "",
+      "name_ar": "جيم",
+      "group": false
+    },
+    {
+      "firstName": "Jewel",
+      "lastName": "",
+      "name_ar": "جويل",
+      "group": false
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Joel",
+      "name_ar": "بيلي جويل",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/5PU43pwxJ8Jb1gGboSn48sEr3Djp7mpzuUbNQGfgKcM6dIEuEdQ6cEuBlL1DurQcIGUKFJKw=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Elton",
+      "lastName": "John",
+      "name_ar": "إلتون جون",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/VdMSNPQi-4Cfxrn2IX1BHwCE3iAAq5zWwJvFaWJk0USKXvpLMdoQcB0Y5r6dVdOX1nep9CgTVQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "Johnson",
+      "name_ar": "جاك جونسون",
+      "group": false
+    },
+    {
+      "firstName": "Freedy",
+      "lastName": "Johnston",
+      "name_ar": "فريدي جونستون",
+      "group": false
+    },
+    {
+      "firstName": "Norah",
+      "lastName": "Jones",
+      "name_ar": "نورا جونز",
+      "group": false
+    },
+    {
+      "firstName": "Janis",
+      "lastName": "Joplin",
+      "name_ar": "جانيس جوبلين",
+      "group": false
+    },
+    {
+      "firstName": "Journey",
+      "lastName": "",
+      "name_ar": "جورني",
+      "group": false
+    },
+    {
+      "firstName": "Joy",
+      "lastName": "Division",
+      "name_ar": "جوي ديفيجن",
+      "group": false
+    },
+    {
+      "firstName": "Bon",
+      "lastName": "Jovi",
+      "name_ar": "بون جوفي",
+      "group": false
+    },
+    {
+      "firstName": "Vance",
+      "lastName": "Joy",
+      "name_ar": "فانس جوي",
+      "group": false
+    },
+    {
+      "firstName": "Judybats",
+      "lastName": "",
+      "name_ar": "جودي باتس",
+      "group": false
+    },
+    {
+      "firstName": "Damien",
+      "lastName": "Jurado",
+      "name_ar": "داميان جورادو",
+      "group": false
+    },
+    {
+      "firstName": "Hobo",
+      "lastName": "Johnson",
+      "name_ar": "هوبي جونسون",
+      "group": false
+    },
+    {
+      "firstName": "Kaleo",
+      "lastName": "",
+      "name_ar": "كالو",
+      "group": false
+    },
+    {
+      "firstName": "Israel",
+      "lastName": "Kamakawiwoʻole",
+      "name_ar": "إسرائيل كاماكويواولي",
+      "group": false
+    },
+    {
+      "firstName": "Kansas",
+      "lastName": "",
+      "name_ar": "كانساس",
+      "group": false
+    },
+    {
+      "firstName": "Keane",
+      "lastName": "",
+      "name_ar": "كين",
+      "group": false
+    },
+    {
+      "firstName": "Mat",
+      "lastName": "Kearney",
+      "name_ar": "مات كيرني",
+      "group": false
+    },
+    {
+      "firstName": "Keb'",
+      "lastName": "Mo",
+      "name_ar": "كيب مو",
+      "group": false
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Kelly",
+      "name_ar": "بول كيلي",
+      "group": false
+    },
+    {
+      "firstName": "Kendrick",
+      "lastName": "Lamar",
+      "name_ar": "كيندريك لامار",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/j1szYhuen1uT1D1icpjxHMFyBc0xINWK1eMtSzrB0TL5jliB7t3JB_wJ6UA9twV7VelxpKEc=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Khruangbin",
+      "lastName": "",
+      "name_ar": "خرونغبين",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Killers",
+      "name_ar": "ذا كيلرز",
+      "group": false
+    },
+    {
+      "firstName": "B.B.",
+      "lastName": "King",
+      "name_ar": "بي بي كينغ",
+      "group": false
+    },
+    {
+      "firstName": "Kings of Leon",
+      "lastName": "",
+      "name_ar": "كينغز أوف ليون",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Kinks",
+      "name_ar": "ذا كينكس",
+      "group": false
+    },
+    {
+      "firstName": "Kiss",
+      "lastName": "",
+      "name_ar": "كيس",
+      "group": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Kiwanuka",
+      "name_ar": "مايكل كيوانكا",
+      "group": false
+    },
+    {
+      "firstName": "Jann",
+      "lastName": "Klose",
+      "name_ar": "جان كلوز",
+      "group": false
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Knopfler",
+      "name_ar": "مارك نوفلر",
+      "group": false
+    },
+    {
+      "firstName": "Beyonce",
+      "lastName": "",
+      "name_ar": "بيونسيه",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/4UxYRy4fJ0Fo54TRPkw19_W6uCCnzTBSkzm75vGIiEObg4IgY5Ie1BIsNcflFNqofAjxEpTRcQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Kool & the Gang",
+      "lastName": "",
+      "name_ar": "كول آند ذا غانغ",
+      "group": true
+    },
+    {
+      "firstName": "The",
+      "lastName": "Kooks",
+      "name_ar": "ذا كوكس",
+      "group": false
+    },
+    {
+      "firstName": "Kopecky",
+      "lastName": "",
+      "name_ar": "كوبيكي",
+      "group": false
+    },
+    {
+      "firstName": "Kraftwerk",
+      "lastName": "",
+      "name_ar": "كرافتويرك",
+      "group": false
+    },
+    {
+      "firstName": "Lenny",
+      "lastName": "Kravitz",
+      "name_ar": "ليني كرافيتز",
+      "group": false
+    },
+    {
+      "firstName": "Chantal",
+      "lastName": "Kreviazuk",
+      "name_ar": "شانتال كريفيازوك",
+      "group": false
+    },
+    {
+      "firstName": "Lady",
+      "lastName": "A.",
+      "name_ar": "ليدي إيه",
+      "group": false
+    },
+    {
+      "firstName": "Lake Street Dive",
+      "lastName": "",
+      "name_ar": "ليك ستريت دايف",
+      "group": true
+    },
+    {
+      "firstName": "Miranda",
+      "lastName": "Lambert",
+      "name_ar": "ميرندا لامبرت",
+      "group": false
+    },
+    {
+      "firstName": "Ray",
+      "lastName": "LaMontagne",
+      "name_ar": "راي لامونتاجن",
+      "group": false
+    },
+    {
+      "firstName": "Land of Talk",
+      "lastName": "",
+      "name_ar": "لاند أوف توك",
+      "group": true
+    },
+    {
+      "firstName": "k.d.",
+      "lastName": "lang",
+      "name_ar": "كي دي لانغ",
+      "group": false
+    },
+    {
+      "firstName": "Daniel",
+      "lastName": "Lanois",
+      "name_ar": "دانيال لانويس",
+      "group": false
+    },
+    {
+      "firstName": "Greg",
+      "lastName": "Laswell",
+      "name_ar": "غريغ لاسويل",
+      "group": false
+    },
+    {
+      "firstName": "Cyndi",
+      "lastName": "Lauper",
+      "name_ar": "سيندي لوبر",
+      "group": false
+    },
+    {
+      "firstName": "LCD",
+      "lastName": "Soundsystem",
+      "name_ar": "إل سي دي ساوندسيستم",
+      "group": false
+    },
+    {
+      "firstName": "Led",
+      "lastName": "Zeppelin",
+      "name_ar": "ليد زيبلين",
+      "group": false
+    },
+    {
+      "firstName": "Amos",
+      "lastName": "Lee",
+      "name_ar": "أموس لي",
+      "group": false
+    },
+    {
+      "firstName": "Amy",
+      "lastName": "Lee",
+      "name_ar": "إيمي لي",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Lemonheads",
+      "name_ar": "ذا ليمونهيدز",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Lennon",
+      "name_ar": "جون لينون",
+      "group": false
+    },
+    {
+      "firstName": "Julian",
+      "lastName": "Lennon",
+      "name_ar": "جوليان لينون",
+      "group": false
+    },
+    {
+      "firstName": "Sondre",
+      "lastName": "Lerche",
+      "name_ar": "سوندر ليرشي",
+      "group": false
+    },
+    {
+      "firstName": "Lifehouse",
+      "lastName": "",
+      "name_ar": "لايفهاوس",
+      "group": false
+    },
+    {
+      "firstName": "Lighthouse",
+      "lastName": "Family",
+      "name_ar": "لايتهاوس فاميلي",
+      "group": false
+    },
+    {
+      "firstName": "Lightning",
+      "lastName": "Seeds",
+      "name_ar": "لايتنينغ سيدز",
+      "group": false
+    },
+    {
+      "firstName": "Linkin Park",
+      "lastName": "",
+      "name_ar": "لينكين بارك",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/OtUf050j6w6iRPUmGgmzblD2saluxUusxiVmo0-SMUnWiNKwR89JL_-xJ6JvIEram8UbPT_zDA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Lissie",
+      "lastName": "",
+      "name_ar": "ليسي",
+      "group": false
+    },
+    {
+      "firstName": "Little",
+      "lastName": "Dragon",
+      "name_ar": "ليتل دراغون",
+      "group": false
+    },
+    {
+      "firstName": "Los",
+      "lastName": "Lobos",
+      "name_ar": "لوس لوبوس",
+      "group": false
+    },
+    {
+      "firstName": "Local",
+      "lastName": "Natives",
+      "name_ar": "لوكال نيتيفز",
+      "group": false
+    },
+    {
+      "firstName": "Lisa",
+      "lastName": "Loeb",
+      "name_ar": "ليزا لوب",
+      "group": false
+    },
+    {
+      "firstName": "Lizzo",
+      "lastName": "",
+      "name_ar": "ليزو",
+      "group": false
+    },
+    {
+      "firstName": "Los Lonely Boys",
+      "lastName": "",
+      "name_ar": "لوس لونلي بويز",
+      "group": true
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "Lopez",
+      "name_ar": "جينيفر لوبيز",
+      "group": false
+    },
+    {
+      "firstName": "Mary Lou Lord",
+      "lastName": "",
+      "name_ar": "ماري لو لورد",
+      "group": true
+    },
+    {
+      "firstName": "Lorde",
+      "lastName": "",
+      "name_ar": "لورد",
+      "group": false
+    },
+    {
+      "firstName": "Loverboy",
+      "lastName": "",
+      "name_ar": "لوفربوي",
+      "group": false
+    },
+    {
+      "firstName": "Lyle",
+      "lastName": "Lovett",
+      "name_ar": "لايل لوفيت",
+      "group": false
+    },
+    {
+      "firstName": "Low",
+      "lastName": "Millions",
+      "name_ar": "لو ميليونز",
+      "group": false
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Lowe",
+      "name_ar": "نيك لو",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Lumineers",
+      "name_ar": "ذا لومينيرز",
+      "group": false
+    },
+    {
+      "firstName": "Les",
+      "lastName": "Luthiers",
+      "name_ar": "ليس لوثييرز",
+      "group": false
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Lynne",
+      "name_ar": "جيف لين",
+      "group": false
+    },
+    {
+      "firstName": "Shelby",
+      "lastName": "Lynne",
+      "name_ar": "شيلبي لين",
+      "group": false
+    },
+    {
+      "firstName": "Lynyrd",
+      "lastName": "Skynyrd",
+      "name_ar": "لينيرد سكينيرد",
+      "group": false
+    },
+    {
+      "firstName": "Madness",
+      "lastName": "",
+      "name_ar": "مادنيس",
+      "group": false
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Marley",
+      "name_ar": "بوب مارلي",
+      "group": false
+    },
+    {
+      "firstName": "Martha and the Vandellas",
+      "lastName": "",
+      "name_ar": "مارثا آند ذا فانديللاس",
+      "group": true
+    },
+    {
+      "firstName": "Marvellettes",
+      "lastName": "",
+      "name_ar": "مارفيليتس",
+      "group": false
+    },
+    {
+      "firstName": "Massive",
+      "lastName": "Attack",
+      "name_ar": "ماسيف أتاك",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Mayall",
+      "name_ar": "جون مايوول",
+      "group": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "McDonald",
+      "name_ar": "مايكل ماكدونالد",
+      "group": false
+    },
+    {
+      "firstName": "MC5",
+      "lastName": "",
+      "name_ar": "إم سي 5",
+      "group": false
+    },
+    {
+      "firstName": "M83",
+      "lastName": "",
+      "name_ar": "إم 83",
+      "group": false
+    },
+    {
+      "firstName": "Fleetwood",
+      "lastName": "Mac",
+      "name_ar": "فليتوود ماك",
+      "group": false
+    },
+    {
+      "firstName": "Meg",
+      "lastName": "Mac",
+      "name_ar": "ميغ ماك",
+      "group": false
+    },
+    {
+      "firstName": "Magnet",
+      "lastName": "",
+      "name_ar": "ماجنت",
+      "group": false
+    },
+    {
+      "firstName": "Tkay",
+      "lastName": "Maidza",
+      "name_ar": "تيكاي مايدزا",
+      "group": false
+    },
+    {
+      "firstName": "Matchbox",
+      "lastName": "Twenty",
+      "name_ar": "ماتشبوكس توينتي",
+      "group": false
+    },
+    {
+      "firstName": "Aimee",
+      "lastName": "Mann",
+      "name_ar": "إيمي مان",
+      "group": false
+    },
+    {
+      "firstName": "Manfred",
+      "lastName": "Mann",
+      "name_ar": "مانفريد مان",
+      "group": false
+    },
+    {
+      "firstName": "Manfred Mann's Earth Band",
+      "lastName": "",
+      "name_ar": "مانفريد مانز إيرث باند",
+      "group": true
+    },
+    {
+      "firstName": "MARINA",
+      "lastName": "",
+      "name_ar": "مارينا",
+      "group": false,
+      "alt": "Marina and the Diamonds",
+      "image": "https://yt3.googleusercontent.com/t6UAshBgbd639ssSH1cLp-M4zZsZn18olKmiBdntJGzuWvMOa2KHIdqalckrsFvZt_4K9H8O5E8=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Mallman",
+      "name_ar": "مارك مالمان",
+      "group": false
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Marling",
+      "name_ar": "لورا مارلينغ",
+      "group": false
+    },
+    {
+      "firstName": "Maroon",
+      "lastName": "5",
+      "name_ar": "مارون 5",
+      "group": false
+    },
+    {
+      "firstName": "Bruno",
+      "lastName": "Mars",
+      "name_ar": "برونو مارس",
+      "group": false
+    },
+    {
+      "firstName": "Wendy",
+      "lastName": "Matthews",
+      "name_ar": "ويندي ماثيوز",
+      "group": false
+    },
+    {
+      "firstName": "Imelda",
+      "lastName": "May",
+      "name_ar": "إميلدا ماي",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Mayer",
+      "name_ar": "جون ماير",
+      "group": false
+    },
+    {
+      "firstName": "Matt",
+      "lastName": "Mays",
+      "name_ar": "مات ميس",
+      "group": false
+    },
+    {
+      "firstName": "Mazzy",
+      "lastName": "Star",
+      "name_ar": "مازي ستار",
+      "group": false
+    },
+    {
+      "firstName": "Edwin",
+      "lastName": "McCain",
+      "name_ar": "إدوين مكين",
+      "group": false
+    },
+    {
+      "firstName": "Erin",
+      "lastName": "McCarley",
+      "name_ar": "إيرين مكارلي",
+      "group": false
+    },
+    {
+      "firstName": "Jesse",
+      "lastName": "McCartney",
+      "name_ar": "جيسي مكارتني",
+      "group": false
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "McCartney",
+      "name_ar": "بول مكارتني",
+      "group": false
+    },
+    {
+      "firstName": "Melissa",
+      "lastName": "McClelland",
+      "name_ar": "ميليسا مكليلاند",
+      "group": false
+    },
+    {
+      "firstName": "Kirsty",
+      "lastName": "MacColl",
+      "name_ar": "كيرستي ماكول",
+      "group": false
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "McLachlan",
+      "name_ar": "سارة مكلاكلان",
+      "group": false
+    },
+    {
+      "firstName": "Megadeth",
+      "lastName": "",
+      "name_ar": "ميغاديث",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Mellencamp",
+      "name_ar": "جون ميلينكامب",
+      "group": false
+    },
+    {
+      "firstName": "Katie",
+      "lastName": "Melua",
+      "name_ar": "كاتي ميلوا",
+      "group": false
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Mena",
+      "name_ar": "ماريا مينا",
+      "group": false
+    },
+    {
+      "firstName": "Shawn",
+      "lastName": "Mendes",
+      "name_ar": "شون مينديز",
+      "group": false
+    },
+    {
+      "firstName": "Natalie",
+      "lastName": "Merchant",
+      "name_ar": "ناتالي ميرشانت",
+      "group": false
+    },
+    {
+      "firstName": "Metric",
+      "lastName": "",
+      "name_ar": "متريك",
+      "group": false
+    },
+    {
+      "firstName": "MGMT",
+      "lastName": "",
+      "name_ar": "إم جي إم تي",
+      "group": false
+    },
+    {
+      "firstName": "Ingrid",
+      "lastName": "Michaelson",
+      "name_ar": "إنغريد مايكلسون",
+      "group": false
+    },
+    {
+      "firstName": "Amy",
+      "lastName": "Millan",
+      "name_ar": "إيمي ميلان",
+      "group": false
+    },
+    {
+      "firstName": "Steve Miller Band",
+      "lastName": "",
+      "name_ar": "ستيف ميلر باند",
+      "group": true
+    },
+    {
+      "firstName": "Tor",
+      "lastName": "Miller",
+      "name_ar": "تور ميلر",
+      "group": false
+    },
+    {
+      "firstName": "Missing",
+      "lastName": "Persons",
+      "name_ar": "ميسينغ بيرسونز",
+      "group": false
+    },
+    {
+      "firstName": "Anaïs",
+      "lastName": "Mitchell",
+      "name_ar": "أناييس ميتشل",
+      "group": false
+    },
+    {
+      "firstName": "Moby",
+      "lastName": "",
+      "name_ar": "موبي",
+      "group": false
+    },
+    {
+      "firstName": "Modest",
+      "lastName": "Mouse",
+      "name_ar": "موديست ماوس",
+      "group": false
+    },
+    {
+      "firstName": "Janelle",
+      "lastName": "Monáe",
+      "name_ar": "جانيل موناي",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Monkees",
+      "name_ar": "ذا مونكيز",
+      "group": false
+    },
+    {
+      "firstName": "Montgomery",
+      "lastName": "Gentry",
+      "name_ar": "مونتغمري جنتري",
+      "group": false
+    },
+    {
+      "firstName": "Monsters of Folk",
+      "lastName": "",
+      "name_ar": "مونسترز أوف فولك",
+      "group": true
+    },
+    {
+      "firstName": "Moon",
+      "lastName": "Taxi",
+      "name_ar": "مون تاكسي",
+      "group": false
+    },
+    {
+      "firstName": "James",
+      "lastName": "Morrison",
+      "name_ar": "جيمس موريسون",
+      "group": false
+    },
+    {
+      "firstName": "Van",
+      "lastName": "Morrison",
+      "name_ar": "فان موريسون",
+      "group": false
+    },
+    {
+      "firstName": "Alanis",
+      "lastName": "Morissette",
+      "name_ar": "ألانيس موريسيت",
+      "group": false
+    },
+    {
+      "firstName": "Mother",
+      "lastName": "Mother",
+      "name_ar": "ماذر ماذر",
+      "group": false
+    },
+    {
+      "firstName": "Motörhead",
+      "lastName": "",
+      "name_ar": "موتورهيد",
+      "group": true
+    },
+    {
+      "firstName": "Smash Mouth",
+      "lastName": "",
+      "name_ar": "سماش ماوث",
+      "group": true
+    },
+    {
+      "firstName": "Alison",
+      "lastName": "Moyet",
+      "name_ar": "أليسون مويا",
+      "group": false
+    },
+    {
+      "firstName": "Melanie",
+      "lastName": "Martinez",
+      "name_ar": "ميلاني مارتينيز",
+      "group": false
+    },
+    {
+      "firstName": "Jason",
+      "lastName": "Mraz",
+      "name_ar": "جيسون مراز",
+      "group": false
+    },
+    {
+      "firstName": "Mudcrutch",
+      "lastName": "",
+      "name_ar": "مودكرتش",
+      "group": false
+    },
+    {
+      "firstName": "Maria",
+      "lastName": "Muldaur",
+      "name_ar": "ماريا مولدور",
+      "group": false
+    },
+    {
+      "firstName": "Shawn",
+      "lastName": "Mullins",
+      "name_ar": "شون مولينز",
+      "group": false
+    },
+    {
+      "firstName": "Mumford & Sons",
+      "lastName": "",
+      "name_ar": "مامفورد آند سنز",
+      "group": true
+    },
+    {
+      "firstName": "Muse",
+      "lastName": "",
+      "name_ar": "ميوز",
+      "group": false
+    },
+    {
+      "firstName": "Kacey",
+      "lastName": "Musgraves",
+      "name_ar": "كيسي موسغريفز",
+      "group": false
+    },
+    {
+      "firstName": "My Friend Steve",
+      "lastName": "",
+      "name_ar": "ماي فريند ستيف",
+      "group": true
+    },
+    {
+      "firstName": "My Morning Jacket",
+      "lastName": "",
+      "name_ar": "ماي مورنينغ جاكيت",
+      "group": true
+    },
+    {
+      "firstName": "Billie",
+      "lastName": "Myers",
+      "name_ar": "بيلي مايرز",
+      "group": false
+    },
+    {
+      "firstName": "Freddie",
+      "lastName": "Mercury",
+      "name_ar": "فريدي ميركوري",
+      "group": false
+    },
+    {
+      "firstName": "Nada",
+      "lastName": "Surf",
+      "name_ar": "نادا سيرف",
+      "group": false
+    },
+    {
+      "firstName": "Leona",
+      "lastName": "Naess",
+      "name_ar": "ليونا نيس",
+      "group": false
+    },
+    {
+      "firstName": "Anna",
+      "lastName": "Nalick",
+      "name_ar": "آنا ناليك",
+      "group": false
+    },
+    {
+      "firstName": "Leigh",
+      "lastName": "Nash",
+      "name_ar": "لي ناش",
+      "group": false
+    },
+    {
+      "firstName": "Matt",
+      "lastName": "Nathanson",
+      "name_ar": "مات ناثانسون",
+      "group": false
+    },
+    {
+      "firstName": "Needtobreathe",
+      "lastName": "",
+      "name_ar": "نيد تو بريث",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Neighbourhood",
+      "name_ar": "ذا نيبرهود",
+      "group": false
+    },
+    {
+      "firstName": "New",
+      "lastName": "Order",
+      "name_ar": "نيو أوردر",
+      "group": false
+    },
+    {
+      "firstName": "The New Pornographers",
+      "lastName": "",
+      "name_ar": "ذا نيو بورنوغرافرز",
+      "group": true
+    },
+    {
+      "firstName": "The New Radicals",
+      "lastName": "",
+      "name_ar": "ذا نيو راديكالز",
+      "group": true
+    },
+    {
+      "firstName": "Gary",
+      "lastName": "Numan",
+      "name_ar": "غاري نيومان",
+      "group": false
+    },
+    {
+      "firstName": "Randy",
+      "lastName": "Newman",
+      "name_ar": "راندي نيومان",
+      "group": false
+    },
+    {
+      "firstName": "Nickel",
+      "lastName": "Creek",
+      "name_ar": "نيكل كريك",
+      "group": false
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Nelson",
+      "name_ar": "ويلي نيلسون",
+      "group": false
+    },
+    {
+      "firstName": "Stevie",
+      "lastName": "Nicks",
+      "name_ar": "ستيفي نيكس",
+      "group": false
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Nile",
+      "name_ar": "ويلي نايل",
+      "group": false
+    },
+    {
+      "firstName": "Nirvana",
+      "lastName": "",
+      "name_ar": "نيرفانا",
+      "group": false
+    },
+    {
+      "firstName": "No",
+      "lastName": "Doubt",
+      "name_ar": "نو داوت",
+      "group": false
+    },
+    {
+      "firstName": "Noah and the Whale",
+      "lastName": "",
+      "name_ar": "نوح آند ذا وايل",
+      "group": true
+    },
+    {
+      "firstName": "Heather",
+      "lastName": "Nova",
+      "name_ar": "هيذر نوفا",
+      "group": false
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "Nozuka",
+      "name_ar": "جاستن نوزوكا",
+      "group": false
+    },
+    {
+      "firstName": "Paolo",
+      "lastName": "Nutini",
+      "name_ar": "باولو نوتيني",
+      "group": false
+    },
+    {
+      "firstName": "Oasis",
+      "lastName": "",
+      "name_ar": "أواسيس",
+      "group": false
+    },
+    {
+      "firstName": "The Ocean Blue",
+      "lastName": "",
+      "name_ar": "ذا أوشن بلو",
+      "group": true
+    },
+    {
+      "firstName": "Sinéad",
+      "lastName": "O'Connor",
+      "name_ar": "شينيد أوكونور",
+      "group": false
+    },
+    {
+      "firstName": "Of Monsters and Men",
+      "lastName": "",
+      "name_ar": "أوف مونسترز آند مين",
+      "group": true
+    },
+    {
+      "firstName": "O.A.R.",
+      "lastName": "",
+      "name_ar": "أو إيه آر",
+      "group": false
+    },
+    {
+      "firstName": "Oingo",
+      "lastName": "Boingo",
+      "name_ar": "أوينغو بوينغو",
+      "group": false
+    },
+    {
+      "firstName": "OK",
+      "lastName": "Go",
+      "name_ar": "أوكي غو",
+      "group": false
+    },
+    {
+      "firstName": "Old",
+      "lastName": "97's",
+      "name_ar": "أولد 97ز",
+      "group": false
+    },
+    {
+      "firstName": "Angel",
+      "lastName": "Olsen",
+      "name_ar": "أنجل أولسن",
+      "group": false
+    },
+    {
+      "firstName": "One",
+      "lastName": "Eskimo",
+      "name_ar": "ون إسكيمو",
+      "group": false
+    },
+    {
+      "firstName": "OneRepublic",
+      "lastName": "",
+      "name_ar": "ون ريببلك",
+      "group": false
+    },
+    {
+      "firstName": "Yoko",
+      "lastName": "Ono",
+      "name_ar": "يوكو أونو",
+      "group": false
+    },
+    {
+      "firstName": "Plastic Ono Band",
+      "lastName": "",
+      "name_ar": "بلاستيك أونو باند",
+      "group": true
+    },
+    {
+      "firstName": "Roy",
+      "lastName": "Orbison",
+      "name_ar": "روي أوربيسون",
+      "group": false
+    },
+    {
+      "firstName": "Electric Light Orchestra",
+      "lastName": "",
+      "name_ar": "إلكتريك لايت أوركسترا",
+      "group": true
+    },
+    {
+      "firstName": "Orchestral Manoeuvres in the Dark",
+      "lastName": "",
+      "name_ar": "أوركسترال مانوفيرز إن ذا دارك",
+      "group": true
+    },
+    {
+      "firstName": "Beth",
+      "lastName": "Orton",
+      "name_ar": "بيث أورتون",
+      "group": false
+    },
+    {
+      "firstName": "Joan",
+      "lastName": "Osborne",
+      "name_ar": "جوان أوزبورن",
+      "group": false
+    },
+    {
+      "firstName": "Our Lady Peace",
+      "lastName": "",
+      "name_ar": "أور ليدي بيس",
+      "group": true
+    },
+    {
+      "firstName": "Outkast",
+      "lastName": "",
+      "name_ar": "أوتكاست",
+      "group": false
+    },
+    {
+      "firstName": "Buck",
+      "lastName": "Owens",
+      "name_ar": "باك أوينز",
+      "group": false
+    },
+    {
+      "firstName": "Owl",
+      "lastName": "City",
+      "name_ar": "أول سيتي",
+      "group": false
+    },
+    {
+      "firstName": "Ozzy",
+      "lastName": "Osbourne",
+      "name_ar": "أوزي أوزبورن",
+      "group": false
+    },
+    {
+      "firstName": "P!nk",
+      "lastName": "",
+      "name_ar": "بينك",
+      "group": false
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Palmer",
+      "name_ar": "روبرت بالمر",
+      "group": false
+    },
+    {
+      "firstName": "Panic! At The Disco",
+      "lastName": "",
+      "name_ar": "بانيك! آت ذا ديسكو",
+      "group": true
+    },
+    {
+      "firstName": "Pantera",
+      "lastName": "",
+      "name_ar": "بانتيرا",
+      "group": false
+    },
+    {
+      "firstName": "Parachute",
+      "lastName": "",
+      "name_ar": "باراشوت",
+      "group": false
+    },
+    {
+      "firstName": "Paramore",
+      "lastName": "",
+      "name_ar": "بارامور",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/302b-QV3HY1-IE-qMD1tHKoHlA4GczxhZWUBuTdYSJzC8WQQdOB6lb9zfq1FLTZypjKGgnGAYg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Emerson Lake & Palmer",
+      "lastName": "",
+      "name_ar": "إيمرسون ليك آند بالمر",
+      "group": true
+    },
+    {
+      "firstName": "Dolly",
+      "lastName": "Parton",
+      "name_ar": "دولي بارتون",
+      "group": false
+    },
+    {
+      "firstName": "Pearl",
+      "lastName": "Jam",
+      "name_ar": "بيرل جام",
+      "group": false
+    },
+    {
+      "firstName": "Michael",
+      "lastName": "Penn",
+      "name_ar": "مايكل بن",
+      "group": false
+    },
+    {
+      "firstName": "Perfume",
+      "lastName": "Genius",
+      "name_ar": "بيرفيوم جينيوس",
+      "group": false
+    },
+    {
+      "firstName": "Carl",
+      "lastName": "Perkins",
+      "name_ar": "كارل بيركنز",
+      "group": false
+    },
+    {
+      "firstName": "Christina",
+      "lastName": "Perri",
+      "name_ar": "كريستينا بيري",
+      "group": false
+    },
+    {
+      "firstName": "Katy",
+      "lastName": "Perry",
+      "name_ar": "كاتي بيري",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/0JHDiF44tXg9XWEwdlEz5_q5ygZYwcOIKKcOdi5R8hLRCwe-34nlSNlGzIzg9elk1EHlYqf1HA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Pet Shop Boys",
+      "lastName": "",
+      "name_ar": "بيت شوب بويز",
+      "group": true
+    },
+    {
+      "firstName": "Peter Bjorn and John",
+      "lastName": "",
+      "name_ar": "بيتر بيورن وجون",
+      "group": true
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Petty",
+      "name_ar": "توم بيتي",
+      "group": false
+    },
+    {
+      "firstName": "Liz",
+      "lastName": "Phair",
+      "name_ar": "ليز فير",
+      "group": false
+    },
+    {
+      "firstName": "Phantogram",
+      "lastName": "",
+      "name_ar": "فانتوغرام",
+      "group": false
+    },
+    {
+      "firstName": "Grant Lee Phillips",
+      "lastName": "",
+      "name_ar": "غرانت لي فيليبس",
+      "group": true
+    },
+    {
+      "firstName": "Phillip",
+      "lastName": "Phillips",
+      "name_ar": "فيليب فيليبس",
+      "group": false
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Phillips",
+      "name_ar": "سام فيليبس",
+      "group": false
+    },
+    {
+      "firstName": "Wilson",
+      "lastName": "Phillips",
+      "name_ar": "ويلسون فيليبس",
+      "group": false
+    },
+    {
+      "firstName": "Phish",
+      "lastName": "",
+      "name_ar": "فيش",
+      "group": false
+    },
+    {
+      "firstName": "Phoebe",
+      "lastName": "Bridgers",
+      "name_ar": "فيبي بريدجرز",
+      "group": false
+    },
+    {
+      "firstName": "Phoenix",
+      "lastName": "",
+      "name_ar": "فينيكس",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Pierces",
+      "name_ar": "ذا بيرسز",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Pillbugs",
+      "name_ar": "ذا بيلباغز",
+      "group": false
+    },
+    {
+      "firstName": "Pink",
+      "lastName": "Floyd",
+      "name_ar": "بينك فلويد",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ORHGvYJOITJwl0Krrm-Qt9CHyVMODr2PCJHC-RQhn9_jvDHxMUexRu8lvTZezdqfEyBHD9U2tQ=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Sex",
+      "lastName": "Pistols",
+      "name_ar": "سيكس بيستولز",
+      "group": false
+    },
+    {
+      "firstName": "Pixies",
+      "lastName": "",
+      "name_ar": "بيكسيز",
+      "group": false
+    },
+    {
+      "firstName": "Plain White T's",
+      "lastName": "",
+      "name_ar": "بلاين وايت تيز",
+      "group": true
+    },
+    {
+      "firstName": "Robert",
+      "lastName": "Plant",
+      "name_ar": "روبرت بلانت",
+      "group": false
+    },
+    {
+      "firstName": "Plants and Animals",
+      "lastName": "",
+      "name_ar": "بلانتس آند أنيمالز",
+      "group": true
+    },
+    {
+      "firstName": "Joel",
+      "lastName": "Plaskett",
+      "name_ar": "جويل بلاسكت",
+      "group": false
+    },
+    {
+      "firstName": "Poe",
+      "lastName": "",
+      "name_ar": "بو",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Pogues",
+      "name_ar": "ذا بوغز",
+      "group": false
+    },
+    {
+      "firstName": "The Pointer Sisters",
+      "lastName": "",
+      "name_ar": "ذا بوينتر سيسترز",
+      "group": true
+    },
+    {
+      "firstName": "Poison",
+      "lastName": "",
+      "name_ar": "بويسون",
+      "group": false
+    },
+    {
+      "firstName": "Caroline",
+      "lastName": "Polachek",
+      "name_ar": "كارولين بولاتشيك",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Police",
+      "name_ar": "ذا بوليس",
+      "group": false
+    },
+    {
+      "firstName": "John",
+      "lastName": "Popper",
+      "name_ar": "جون بوبر",
+      "group": false
+    },
+    {
+      "firstName": "Willy",
+      "lastName": "Porter",
+      "name_ar": "ويلي بورتر",
+      "group": false
+    },
+    {
+      "firstName": "Portishead",
+      "lastName": "",
+      "name_ar": "بورتيسهيد",
+      "group": false
+    },
+    {
+      "firstName": "Portugal. The Man",
+      "lastName": "",
+      "name_ar": "بورتغال. ذا مان",
+      "group": true
+    },
+    {
+      "firstName": "Elvis",
+      "lastName": "Presley",
+      "name_ar": "إلفيس بريسلي",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/IoE7rM2uSLjWsLXI3HwZWSZdL8zGCS18hDjHQPdiVV5zNOueE_ScaAX5lUXUM3m5D9wLwsG5=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Billy",
+      "lastName": "Preston",
+      "name_ar": "بيلي بريستون",
+      "group": false
+    },
+    {
+      "firstName": "Pretenders",
+      "lastName": "",
+      "name_ar": "بريتندرز",
+      "group": false
+    },
+    {
+      "firstName": "Judas",
+      "lastName": "Priest",
+      "name_ar": "جوداس بريست",
+      "group": false
+    },
+    {
+      "firstName": "Prince",
+      "lastName": "",
+      "name_ar": "برنس",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/A4Tgk3Mjgr592w-ZX2fApwsG8j_Xh2pk3-CXo2KdgaLoH7U5q6Zo0qBkqEeRq2T7ekbsGnJG=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Procol",
+      "lastName": "Harum",
+      "name_ar": "بروكول هاروم",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Proclaimers",
+      "name_ar": "ذا بروكليميرز",
+      "group": false
+    },
+    {
+      "firstName": "The Psychedelic Furs",
+      "lastName": "",
+      "name_ar": "ذا سايكيدليك فورز",
+      "group": true
+    },
+    {
+      "firstName": "Public",
+      "lastName": "Enemy",
+      "name_ar": "بابليك إنيمي",
+      "group": false
+    },
+    {
+      "firstName": "Punch",
+      "lastName": "Brothers",
+      "name_ar": "بنش براذرز",
+      "group": false
+    },
+    {
+      "firstName": "Puppini",
+      "lastName": "Sisters",
+      "name_ar": "بوبيني سيسترز",
+      "group": false
+    },
+    {
+      "firstName": "Deep",
+      "lastName": "Purple",
+      "name_ar": "ديب بيربل",
+      "group": false
+    },
+    {
+      "firstName": "Queen",
+      "lastName": "",
+      "name_ar": "كوين",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/EBVYQCd4NEa7Io8bvLUxvq8HBnIUJ-BRp-cHkEUVl6u9Xj91TAADo5lh9Xzf5riI6wGIF_GAD-8=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Queens of the Stone Age",
+      "lastName": "",
+      "name_ar": "كوينز أوف ذا ستون إيج",
+      "group": true
+    },
+    {
+      "firstName": "R.E.M.",
+      "lastName": "",
+      "name_ar": "آر إي إم",
+      "group": false
+    },
+    {
+      "firstName": "REO",
+      "lastName": "Speedwagon",
+      "name_ar": "آر إي أو سبيدواغن",
+      "group": false
+    },
+    {
+      "firstName": "Rage Against the Machine",
+      "lastName": "",
+      "name_ar": "ريج أغينست ذا ماشين",
+      "group": true
+    },
+    {
+      "firstName": "Rainbow",
+      "lastName": "",
+      "name_ar": "رينبو",
+      "group": false
+    },
+    {
+      "firstName": "Bonnie",
+      "lastName": "Raitt",
+      "name_ar": "بوني رايت",
+      "group": false
+    },
+    {
+      "firstName": "Night",
+      "lastName": "Ranger",
+      "name_ar": "نايت رينجر",
+      "group": false
+    },
+    {
+      "firstName": "Sugar",
+      "lastName": "Ray",
+      "name_ar": "شوجر راي",
+      "group": false
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Rea",
+      "name_ar": "كريس ريا",
+      "group": false
+    },
+    {
+      "firstName": "The Record Company",
+      "lastName": "",
+      "name_ar": "ذا ريكورد كومباني",
+      "group": true
+    },
+    {
+      "firstName": "Red Hot Chili Peppers",
+      "lastName": "",
+      "name_ar": "ريد هوت تشيلي بيبرز",
+      "group": true
+    },
+    {
+      "firstName": "Lou",
+      "lastName": "Reed",
+      "name_ar": "لو ريد",
+      "group": false
+    },
+    {
+      "firstName": "The",
+      "lastName": "Replacements",
+      "name_ar": "ذا ريبليسمنتس",
+      "group": false
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Rice",
+      "name_ar": "كريس رايس",
+      "group": false
+    },
+    {
+      "firstName": "Rihanna",
+      "lastName": "",
+      "name_ar": "ريهانا",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/qMCGjRaKKRar82KzcIWdUoLbJ03aW2K2sEf-m4GaB7JwLshoHOZHvkxLRXsZVgpKvqCXVhKCWg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Amy",
+      "lastName": "Rigby",
+      "name_ar": "إيمي ريغبي",
+      "group": false
+    },
+    {
+      "firstName": "Rilo",
+      "lastName": "Kiley",
+      "name_ar": "رايلو كيلي",
+      "group": false
+    },
+    {
+      "firstName": "Little",
+      "lastName": "Richard",
+      "name_ar": "ليتل ريتشارد",
+      "group": false
+    },
+    {
+      "firstName": "Rise",
+      "lastName": "Against",
+      "name_ar": "رايز أغينست",
+      "group": false
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "Roberts",
+      "name_ar": "جاستن روبرتس",
+      "group": false
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Roberts",
+      "name_ar": "سام روبرتس",
+      "group": false
+    },
+    {
+      "firstName": "Robbie",
+      "lastName": "Robertson",
+      "name_ar": "روبي روبرتسون",
+      "group": false
+    },
+    {
+      "firstName": "Smokey",
+      "lastName": "Robinson",
+      "name_ar": "سموكي روبنسون",
+      "group": false
+    },
+    {
+      "firstName": "Kenny",
+      "lastName": "Rogers",
+      "name_ar": "كيني روجرز",
+      "group": false
+    },
+    {
+      "firstName": "Rolling Stones",
+      "lastName": "",
+      "name_ar": "رولينج ستونز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/_FRhFEbOh6pFql4DVHWZc71AQFD_Yty08FYoRyl0X6ge_Zb1DFd2yn1TzNekA_YGOig8w8VoKA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "My Chemical Romance",
+      "lastName": "",
+      "name_ar": "ماي كيميكال رومانس",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/FCLan3cwDqR--T_D0HQW5m1ASHgKfzIaMeQEayoVIPHVINuFe-g9569UA59HS6Kn_heCRmZ-Ofc=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Gavin",
+      "lastName": "Rossdale",
+      "name_ar": "غافين روسديل",
+      "group": false
+    },
+    {
+      "firstName": "Josh",
+      "lastName": "Rouse",
+      "name_ar": "جوش روس",
+      "group": false
+    },
+    {
+      "firstName": "Ronettes",
+      "lastName": "",
+      "name_ar": "رونيتس",
+      "group": false
+    },
+    {
+      "firstName": "Roxette",
+      "lastName": "",
+      "name_ar": "روكسيت",
+      "group": false
+    },
+    {
+      "firstName": "Run the Jewels",
+      "lastName": "",
+      "name_ar": "رن ذا جولز",
+      "group": true
+    },
+    {
+      "firstName": "Todd",
+      "lastName": "Rundgren",
+      "name_ar": "تود روندغرين",
+      "group": false
+    },
+    {
+      "firstName": "Bic",
+      "lastName": "Runga",
+      "name_ar": "بيك رونغا",
+      "group": false
+    },
+    {
+      "firstName": "Rush",
+      "lastName": "",
+      "name_ar": "راش",
+      "group": false
+    },
+    {
+      "firstName": "Rusted",
+      "lastName": "Root",
+      "name_ar": "روستد روت",
+      "group": false
+    },
+    {
+      "firstName": "Run",
+      "lastName": "DMC",
+      "name_ar": "رن دي إم سي",
+      "group": false
+    },
+    {
+      "firstName": "Serena",
+      "lastName": "Ryder",
+      "name_ar": "سيرينا رايدر",
+      "group": false
+    },
+    {
+      "firstName": "Rymes with Orange",
+      "lastName": "",
+      "name_ar": "رايمز ويذ أورانج",
+      "group": true
+    },
+    {
+      "firstName": "Salt-N-Pepa",
+      "lastName": "",
+      "name_ar": "سالت-إن-بيبا",
+      "group": false
+    },
+    {
+      "firstName": "San",
+      "lastName": "Cisco",
+      "name_ar": "سان سيسكو",
+      "group": false
+    },
+    {
+      "firstName": "Savage",
+      "lastName": "Garden",
+      "name_ar": "سافاج غاردن",
+      "group": false
+    },
+    {
+      "firstName": "St. Paul and The Broken Bones",
+      "lastName": "",
+      "name_ar": "سانت بول آند ذا بروكن بونز",
+      "group": true
+    },
+    {
+      "firstName": "Scars on 45",
+      "lastName": "",
+      "name_ar": "سكارز أون 45",
+      "group": true
+    },
+    {
+      "firstName": "Boz",
+      "lastName": "Scaggs",
+      "name_ar": "بوز سكاگز",
+      "group": false
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Schneider",
+      "name_ar": "بوب شنايدر",
+      "group": false
+    },
+    {
+      "firstName": "The Weeknd",
+      "lastName": "",
+      "name_ar": "ذا ويكند",
+      "group": false,
+      "alt": "Abel",
+      "image": "https://yt3.googleusercontent.com/WHvw1ak1FcJaHeEiTmG2iN0dqEjjPxAtT_tA8ruJ3MlNr9I-RHsAur1iAenYeQN_d6LNPH2Z8Ic=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Travis",
+      "lastName": "Scott",
+      "name_ar": "ترافيس سكوت",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_lYT_V7ztsYEvILayV7Ey_fgzx2VYpeLJxFXf1TO0rjPH8=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Kanye",
+      "lastName": "West",
+      "name_ar": "كانيي ويست",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/jh05JitmhiTaAuBp7AAtTETeO3Zl7bDa-KwcSnZYymMpNF984oQ4k3ZQq1KBPhoKOXHS8B761WM=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Playboy",
+      "lastName": "Carti",
+      "name_ar": "بلاي بوي كارتي",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/_kV6e9Y-5cFZAYJMyEKvo7sTRLOR1yuyvE7v61nmnu8DifdEWVH3CcTgCykyZ3WWwwGY_ecp=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Seal",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سيل"
+    },
+    {
+      "firstName": "Seether",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سيذر"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Seger",
+      "group": false,
+      "name_ar": "بوب سيغر"
+    },
+    {
+      "firstName": "Ron",
+      "lastName": "Sexsmith",
+      "group": false,
+      "name_ar": "رون سيكسميث"
+    },
+    {
+      "firstName": "Scorpions",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سكوربيونز"
+    },
+    {
+      "firstName": "DJ",
+      "lastName": "Shadow",
+      "group": false,
+      "name_ar": "دي جي شادو"
+    },
+    {
+      "firstName": "Ryan",
+      "lastName": "Shaw",
+      "group": false,
+      "name_ar": "ريان شو"
+    },
+    {
+      "firstName": "Jules",
+      "lastName": "Shear",
+      "group": false,
+      "name_ar": "جولز شير"
+    },
+    {
+      "firstName": "Ed",
+      "lastName": "Sheeran",
+      "group": false,
+      "name_ar": "إد شيران"
+    },
+    {
+      "firstName": "Duncan",
+      "lastName": "Sheik",
+      "group": false,
+      "name_ar": "دنكان شيك"
+    },
+    {
+      "firstName": "Vonda",
+      "lastName": "Shepard",
+      "group": false,
+      "name_ar": "فوندا شيبارد"
+    },
+    {
+      "firstName": "Kenny Wayne Shepherd",
+      "lastName": "",
+      "group": true,
+      "name_ar": "كيني واين شيبرد"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Shins",
+      "group": false,
+      "name_ar": "ذا شينز"
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Siberry",
+      "group": false,
+      "name_ar": "جين سيبيري"
+    },
+    {
+      "firstName": "Silversun",
+      "lastName": "Pickups",
+      "group": false,
+      "name_ar": "سيلفرسن بيك أبس"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Simon",
+      "group": false,
+      "name_ar": "بول سايمون"
+    },
+    {
+      "firstName": "Simple",
+      "lastName": "Minds",
+      "group": false,
+      "name_ar": "سيمبل مايندز"
+    },
+    {
+      "firstName": "Simple",
+      "lastName": "Plan",
+      "group": false,
+      "name_ar": "سيمبل بلان"
+    },
+    {
+      "firstName": "Simply",
+      "lastName": "Red",
+      "group": false,
+      "name_ar": "سيمبلي ريد"
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Sinatra",
+      "name_ar": "فرانك سيناترا",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/t2FAAZP9Gmtggz-TX-qRhb2BBwTdt21Wk4aSwBN6Vw3mdh9R70ZO5cFMLLuIE-KTVWGK13cALA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Nancy",
+      "lastName": "Sinatra",
+      "group": false,
+      "name_ar": "نانسي سيناترا"
+    },
+    {
+      "firstName": "Sister",
+      "lastName": "Hazel",
+      "group": false,
+      "name_ar": "سيستر هازل"
+    },
+    {
+      "firstName": "JoJo",
+      "lastName": "Siwa",
+      "group": false,
+      "name_ar": "جوجو سيوا"
+    },
+    {
+      "firstName": "Sixpence None the Richer",
+      "lastName": "",
+      "group": true,
+      "name_ar": "سيكس بنس نون ذا ريتشر"
+    },
+    {
+      "firstName": "Sarah",
+      "lastName": "Slean",
+      "group": false,
+      "name_ar": "سارة سليان"
+    },
+    {
+      "firstName": "Slipknot",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سليبنوت"
+    },
+    {
+      "firstName": "Elliott",
+      "lastName": "Smith",
+      "group": false,
+      "name_ar": "إليوت سميث"
+    },
+    {
+      "firstName": "Patti Smith Group",
+      "lastName": "",
+      "group": true,
+      "name_ar": "باتي سميث جروب"
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Smith",
+      "group": false,
+      "name_ar": "سام سميث"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Smithereens",
+      "group": false,
+      "name_ar": "ذا سميثيرينز"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Smiths",
+      "group": false,
+      "name_ar": "ذا سميثس"
+    },
+    {
+      "firstName": "Sneaker",
+      "lastName": "Pimps",
+      "group": false,
+      "name_ar": "سنيكر بيمبس"
+    },
+    {
+      "firstName": "Snow",
+      "lastName": "Patrol",
+      "group": false,
+      "name_ar": "سنو باترول"
+    },
+    {
+      "firstName": "Jill",
+      "lastName": "Sobule",
+      "group": false,
+      "name_ar": "جيل سوبول"
+    },
+    {
+      "firstName": "Soccer",
+      "lastName": "Mommy",
+      "group": false,
+      "name_ar": "سوكر مومي"
+    },
+    {
+      "firstName": "Songhoy",
+      "lastName": "Blues",
+      "group": false,
+      "name_ar": "سونغوي بلوز"
+    },
+    {
+      "firstName": "Sonic",
+      "lastName": "Youth",
+      "group": false,
+      "name_ar": "سونيك يوث"
+    },
+    {
+      "firstName": "Sorry",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سوري"
+    },
+    {
+      "firstName": "Soul",
+      "lastName": "Asylum",
+      "group": false,
+      "name_ar": "سول أسايلم"
+    },
+    {
+      "firstName": "Soul",
+      "lastName": "Coughing",
+      "group": false,
+      "name_ar": "سول كوفينغ"
+    },
+    {
+      "firstName": "Regina",
+      "lastName": "Spektor",
+      "group": false,
+      "name_ar": "ريجينا سبيكتور"
+    },
+    {
+      "firstName": "Spencer Davis Group",
+      "lastName": "",
+      "group": true,
+      "name_ar": "سبنسر ديفيس جروب"
+    },
+    {
+      "firstName": "Spice Girls",
+      "lastName": "",
+      "name_ar": "سبايس جيرلز",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/wcQRIf-MR7zP9wz2QxNrjWZFowjgmtsfWZN4J59k33XhBiI9AJFFqGtFqYVNTcpdIj0Ljnxx=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Spin",
+      "lastName": "Doctors",
+      "group": false,
+      "name_ar": "سبين دكتورز"
+    },
+    {
+      "firstName": "Split",
+      "lastName": "Enz",
+      "group": false,
+      "name_ar": "سبليت إنز"
+    },
+    {
+      "firstName": "Spoon",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سبون"
+    },
+    {
+      "firstName": "Sports",
+      "lastName": "Team",
+      "group": false,
+      "name_ar": "سبورتس تيم"
+    },
+    {
+      "firstName": "Squeeze",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سكويز"
+    },
+    {
+      "firstName": "Buffalo",
+      "lastName": "Springfield",
+      "group": false,
+      "name_ar": "بافالو سبرينغفيلد"
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Springsteen",
+      "group": false,
+      "name_ar": "بروس سبرينغستين"
+    },
+    {
+      "firstName": "Gwen",
+      "lastName": "Stefani",
+      "group": false,
+      "name_ar": "غوين ستيفاني"
+    },
+    {
+      "firstName": "Hailee",
+      "lastName": "Steinfeld",
+      "group": false,
+      "name_ar": "هايلي ستاينفيلد"
+    },
+    {
+      "firstName": "Steely",
+      "lastName": "Dan",
+      "group": false,
+      "name_ar": "ستيلي دان"
+    },
+    {
+      "firstName": "Stereolab",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ستيريولاب"
+    },
+    {
+      "firstName": "Steve Miller Band",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ستيف ميلر باند"
+    },
+    {
+      "firstName": "Steve",
+      "lastName": "Winwood",
+      "group": false,
+      "name_ar": "ستيف وينوود"
+    },
+    {
+      "firstName": "Rod",
+      "lastName": "Stewart",
+      "group": false,
+      "name_ar": "رود ستيوارت"
+    },
+    {
+      "firstName": "Stickman",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ستيكمان"
+    },
+    {
+      "firstName": "Sting",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ستينغ"
+    },
+    {
+      "firstName": "Joss",
+      "lastName": "Stone",
+      "group": false,
+      "name_ar": "جوس ستون"
+    },
+    {
+      "firstName": "Stone Temple Pilots",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ستون تمبل بايلوتس"
+    },
+    {
+      "firstName": "C. W. Stoneking",
+      "lastName": "",
+      "group": true,
+      "name_ar": "سي دبليو ستونكينغ"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Stooges",
+      "group": false,
+      "name_ar": "ذا ستوجز"
+    },
+    {
+      "firstName": "Ringo",
+      "lastName": "Starr",
+      "group": false,
+      "name_ar": "رينغو ستار"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Strokes",
+      "group": false,
+      "name_ar": "ذا ستروكس"
+    },
+    {
+      "firstName": "Sturgill",
+      "lastName": "Simpson",
+      "group": false,
+      "name_ar": "ستيرجيل سيمبسون"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Strumbellas",
+      "group": false,
+      "name_ar": "ذا سترومبيلاس"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Struts",
+      "group": false,
+      "name_ar": "ذا ستراتس"
+    },
+    {
+      "firstName": "Styx",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ستيكس"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Sundays",
+      "group": false,
+      "name_ar": "ذا صنديز"
+    },
+    {
+      "firstName": "SuperHeavy",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سوبرهيفي"
+    },
+    {
+      "firstName": "Supertramp",
+      "lastName": "",
+      "group": false,
+      "name_ar": "سوبرترامب"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Supremes",
+      "group": false,
+      "name_ar": "ذا سوبريمز"
+    },
+    {
+      "firstName": "Matthew",
+      "lastName": "Sweet",
+      "group": false,
+      "name_ar": "ماثيو سويت"
+    },
+    {
+      "firstName": "The Swell Season",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا سويل سيزون"
+    },
+    {
+      "firstName": "Taylor",
+      "lastName": "Swift",
+      "name_ar": "تايلور سويفت",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/HFEgZENJw23LuRb0ldBpDrQKscFUWSf4n2jqrNh-1EqpE3Uiy_IYwacuUXCjCruNUP3Ttq9N=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Dua",
+      "lastName": "Lipa",
+      "name_ar": "دوا ليبا",
+      "group": false,
+      "alt": "my wife",
+      "image": "https://yt3.googleusercontent.com/c3upBFWLu55hnBvqncQS9ZEF_hkvHsNTQiB7m7ZYYavLFMzfyn9Bwo-1VF4HSPGo3G2EdwGtgWg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Sabrina",
+      "lastName": "Carpenter",
+      "name_ar": "سابريانا كاربنتر",
+      "image": "https://yt3.googleusercontent.com/KgFH3zHZEmjN6tPMRBTrc1kBAHPajOGgw5tQbh-rNJnLyoabg7CCxcGdLjBOhaBxGZtRz-Z5=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Sylvan",
+      "lastName": "Esso",
+      "group": false,
+      "name_ar": "سيلفان إيسو"
+    },
+    {
+      "firstName": "Travis",
+      "lastName": "Barker",
+      "group": false,
+      "name_ar": "ترافيس باركر"
+    },
+    {
+      "firstName": "T.I.",
+      "lastName": "",
+      "group": false,
+      "name_ar": "تي آي"
+    },
+    {
+      "firstName": "Taco",
+      "lastName": "",
+      "group": false,
+      "name_ar": "تاكو"
+    },
+    {
+      "firstName": "Talking",
+      "lastName": "Heads",
+      "group": false,
+      "name_ar": "توكينغ هيدز"
+    },
+    {
+      "firstName": "Tame",
+      "lastName": "Impala",
+      "group": false,
+      "name_ar": "تايم إمبالا"
+    },
+    {
+      "firstName": "James",
+      "lastName": "Taylor",
+      "group": false,
+      "name_ar": "جيمس تايلور"
+    },
+    {
+      "firstName": "Tears for Fears",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تيرز فور فيرز"
+    },
+    {
+      "firstName": "Tedeschi Trucks Band",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تيديسكي تروكس باند"
+    },
+    {
+      "firstName": "Teenage",
+      "lastName": "Fanclub",
+      "group": false,
+      "name_ar": "تينيدج فانكلوب"
+    },
+    {
+      "firstName": "Tegan and Sara",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تيغان وسارة"
+    },
+    {
+      "firstName": "Television",
+      "lastName": "",
+      "group": false,
+      "name_ar": "تلفزيون"
+    },
+    {
+      "firstName": "The Telnyuk Sisters",
+      "lastName": "",
+      "group": true,
+      "name_ar": "الأخوات تيلنيوك"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Temptations",
+      "group": false,
+      "name_ar": "ذا تمبتيشنز"
+    },
+    {
+      "firstName": "Texas",
+      "lastName": "",
+      "group": false,
+      "name_ar": "تكساس"
+    },
+    {
+      "firstName": "They Might Be Giants",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذاي مايت بي جاينتس"
+    },
+    {
+      "firstName": "Third Eye Blind",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ثيرد آي بلايند"
+    },
+    {
+      "firstName": "Thirty Seconds to Mars",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ثرتي سيكندز تو مارس"
+    },
+    {
+      "firstName": "Thompson",
+      "lastName": "Twins",
+      "group": false,
+      "name_ar": "تومسون توينز"
+    },
+    {
+      "firstName": "Justin",
+      "lastName": "Timberlake",
+      "name_ar": "جاستن تمبرليك",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/FxjAZ42xkJ0N8SZ7x5xxCruQDmLwoHRjx-8O6-48UG0TIlOV4gc6D6E9sl5bowPl0aTrXaBF=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Tired",
+      "lastName": "Pony",
+      "group": false,
+      "name_ar": "تايرد بوني"
+    },
+    {
+      "firstName": "Cal",
+      "lastName": "Tjader",
+      "group": false,
+      "name_ar": "كال تجادر"
+    },
+    {
+      "firstName": "TLC",
+      "lastName": "",
+      "group": false,
+      "name_ar": "تي إل سي"
+    },
+    {
+      "firstName": "Toad the Wet Sprocket",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تود ذا ويت سبروكيت"
+    },
+    {
+      "firstName": "Tommy",
+      "lastName": "Tutone",
+      "group": false,
+      "name_ar": "تومي توتون"
+    },
+    {
+      "firstName": "Toots and the Maytals",
+      "lastName": "",
+      "group": true,
+      "name_ar": "توتس آند ذا مايتالز"
+    },
+    {
+      "firstName": "Tove",
+      "lastName": "Lo",
+      "group": false,
+      "name_ar": "توف لو"
+    },
+    {
+      "firstName": "Traffic",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ترافيك"
+    },
+    {
+      "firstName": "Train",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ترين"
+    },
+    {
+      "firstName": "Meghan",
+      "lastName": "Trainor",
+      "group": false,
+      "name_ar": "ميغان ترينور"
+    },
+    {
+      "firstName": "Trashcan",
+      "lastName": "Sinatras",
+      "group": false,
+      "name_ar": "تراشكان سيناتراس"
+    },
+    {
+      "firstName": "Travis",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ترافيس"
+    },
+    {
+      "firstName": "Cheap",
+      "lastName": "Trick",
+      "group": false,
+      "name_ar": "تشيب تريك"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Tubes",
+      "group": false,
+      "name_ar": "ذا تيوبز"
+    },
+    {
+      "firstName": "KT",
+      "lastName": "Tunstall",
+      "group": false,
+      "name_ar": "كي تي تنستال"
+    },
+    {
+      "firstName": "TV on the Radio",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تي في أون ذا راديو"
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Tweedy",
+      "group": false,
+      "name_ar": "جيف تويدي"
+    },
+    {
+      "firstName": "Twenty One Pilots",
+      "lastName": "",
+      "group": true,
+      "name_ar": "توينتي ون بايلوتس"
+    },
+    {
+      "firstName": "Two Door Cinema Club",
+      "lastName": "",
+      "group": true,
+      "name_ar": "تو دور سينما كلوب"
+    },
+    {
+      "firstName": "Tyler, the Creator",
+      "lastName": "",
+      "name_ar": "تايلر، ذا كرييتر",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/El0opMo40Ehl8KcuFwzdQPP7BJsSh3p_w9xJKWQ4Eo6tynFE6Mo0a05nKWBCL5dlun-sx6Ejkg=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "T.",
+      "lastName": "Rex",
+      "group": false,
+      "name_ar": "تي ريكس"
+    },
+    {
+      "firstName": "U.S.",
+      "lastName": "Girls",
+      "group": false,
+      "name_ar": "يو إس غيرلز"
+    },
+    {
+      "firstName": "Carrie",
+      "lastName": "Underwood",
+      "group": false,
+      "name_ar": "كاري أندروود"
+    },
+    {
+      "firstName": "U2",
+      "lastName": "",
+      "group": false,
+      "name_ar": "يو 2"
+    },
+    {
+      "firstName": "Ultravox",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ألترافوكس"
+    },
+    {
+      "firstName": "Umphrey's",
+      "lastName": "McGee",
+      "group": false,
+      "name_ar": "أمفريز مكجي"
+    },
+    {
+      "firstName": "Vampire",
+      "lastName": "Weekend",
+      "group": false,
+      "name_ar": "فامباير ويكند"
+    },
+    {
+      "firstName": "Van",
+      "lastName": "Ghost",
+      "group": false,
+      "name_ar": "فان غوست"
+    },
+    {
+      "firstName": "Van",
+      "lastName": "Halen",
+      "group": false,
+      "name_ar": "فان هيلين"
+    },
+    {
+      "firstName": "Van",
+      "lastName": "Zant",
+      "group": false,
+      "name_ar": "فان زانت"
+    },
+    {
+      "firstName": "Keith",
+      "lastName": "Varon",
+      "group": false,
+      "name_ar": "كيث فارون"
+    },
+    {
+      "firstName": "Eddie",
+      "lastName": "Vedder",
+      "group": false,
+      "name_ar": "إيدي فيدر"
+    },
+    {
+      "firstName": "Suzanne",
+      "lastName": "Vega",
+      "group": false,
+      "name_ar": "سوزان فيغا"
+    },
+    {
+      "firstName": "Laura",
+      "lastName": "Veirs",
+      "group": false,
+      "name_ar": "لورا فييرز"
+    },
+    {
+      "firstName": "Jackie",
+      "lastName": "Venson",
+      "group": false,
+      "name_ar": "جاكي فينسون"
+    },
+    {
+      "firstName": "Gene",
+      "lastName": "Vincent",
+      "group": false,
+      "name_ar": "جين فينسنت"
+    },
+    {
+      "firstName": "The Velvet Underground",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا فيلفيت أندرجراوند"
+    },
+    {
+      "firstName": "Velvet",
+      "lastName": "Revolver",
+      "group": false,
+      "name_ar": "فيلفيت ريفولفر"
+    },
+    {
+      "firstName": "Veruca",
+      "lastName": "Salt",
+      "group": false,
+      "name_ar": "فيروكا سولت"
+    },
+    {
+      "firstName": "Vertical",
+      "lastName": "Horizon",
+      "group": false,
+      "name_ar": "فيرتيكال هورايزون"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Verve",
+      "group": false,
+      "name_ar": "ذا فيرف"
+    },
+    {
+      "firstName": "The Verve Pipe",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا فيرف بايب"
+    },
+    {
+      "firstName": "Kurt",
+      "lastName": "Vile",
+      "group": false,
+      "name_ar": "كورت فايل"
+    },
+    {
+      "firstName": "Vintage",
+      "lastName": "Trouble",
+      "group": false,
+      "name_ar": "فينتج تروبل"
+    },
+    {
+      "firstName": "En",
+      "lastName": "Vogue",
+      "group": false,
+      "name_ar": "إن فوج"
+    },
+    {
+      "firstName": "The Wailin' Jennys",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا وايلين جينيز"
+    },
+    {
+      "firstName": "Rufus",
+      "lastName": "Wainwright",
+      "group": false,
+      "name_ar": "روفوس وينرايت"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Waits",
+      "group": false,
+      "name_ar": "توم وايتس"
+    },
+    {
+      "firstName": "Walk the Moon",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ووك ذا مون"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Wallflowers",
+      "group": false,
+      "name_ar": "ذا وولفلاورز"
+    },
+    {
+      "firstName": "J Roddy Walston and the Business",
+      "lastName": "",
+      "group": true,
+      "name_ar": "جي روددي والستون آند ذا بيزنس"
+    },
+    {
+      "firstName": "Wang",
+      "lastName": "Chung",
+      "group": false,
+      "name_ar": "وانغ تشونغ"
+    },
+    {
+      "firstName": "War",
+      "lastName": "",
+      "group": false,
+      "name_ar": "وار"
+    },
+    {
+      "firstName": "ZZ",
+      "lastName": "Ward",
+      "group": false,
+      "name_ar": "زد زد وارد"
+    },
+    {
+      "firstName": "Washed",
+      "lastName": "Out",
+      "group": false,
+      "name_ar": "واشد آوت"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Waterboys",
+      "group": false,
+      "name_ar": "ذا ووتر بويز"
+    },
+    {
+      "firstName": "Nick",
+      "lastName": "Waterhouse",
+      "group": false,
+      "name_ar": "نيك ووترهاوس"
+    },
+    {
+      "firstName": "Waxahatchee",
+      "lastName": "",
+      "group": false,
+      "name_ar": "واكساهاشي"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Weakerthans",
+      "group": false,
+      "name_ar": "ذا ويكرثانز"
+    },
+    {
+      "firstName": "Ween",
+      "lastName": "",
+      "group": false,
+      "name_ar": "وين"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Weepies",
+      "group": false,
+      "name_ar": "ذا ويبيز"
+    },
+    {
+      "firstName": "Weezer",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ويزر"
+    },
+    {
+      "firstName": "Paul",
+      "lastName": "Westerberg",
+      "group": false,
+      "name_ar": "بول ويستربيرغ"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "White",
+      "group": false,
+      "name_ar": "جاك وايت"
+    },
+    {
+      "firstName": "Whitesnake",
+      "lastName": "",
+      "group": false,
+      "name_ar": "وايتسنيك"
+    },
+    {
+      "firstName": "White",
+      "lastName": "Denim",
+      "group": false,
+      "name_ar": "وايت دينيم"
+    },
+    {
+      "firstName": "The White Stripes",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا وايت سترايبس"
+    },
+    {
+      "firstName": "White",
+      "lastName": "Town",
+      "group": false,
+      "name_ar": "وايت تاون"
+    },
+    {
+      "firstName": "The Guess Who",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ذا غيس هو"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Who",
+      "group": false,
+      "name_ar": "ذا هو"
+    },
+    {
+      "firstName": "Traveling",
+      "lastName": "Wilburys",
+      "group": false,
+      "name_ar": "ترافلينغ ويلبوريز"
+    },
+    {
+      "firstName": "Will I. Am",
+      "lastName": "",
+      "name_ar": "ويل.آي.أم",
+      "group": false,
+      "alt": "william",
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMz7hJqPIZekPRLm7Hde6fk0-DQnVetuArb_RRWNQ1RA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Wilco",
+      "lastName": "",
+      "group": false,
+      "name_ar": "ويلكو"
+    },
+    {
+      "firstName": "Dar",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "دار ويليامز"
+    },
+    {
+      "firstName": "Joy",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "جوي ويليامز"
+    },
+    {
+      "firstName": "Lucinda",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "لوسيندا ويليامز"
+    },
+    {
+      "firstName": "Pharrell",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "فاريل ويليامز"
+    },
+    {
+      "firstName": "Robbie",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "روبي ويليامز"
+    },
+    {
+      "firstName": "Victoria",
+      "lastName": "Williams",
+      "group": false,
+      "name_ar": "فيكتوريا ويليامز"
+    },
+    {
+      "firstName": "Wings",
+      "lastName": "",
+      "group": false,
+      "name_ar": "وينغز"
+    },
+    {
+      "firstName": "Amy",
+      "lastName": "Winehouse",
+      "name_ar": "إيمي واينهاوس",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/ytc/AIdro_lMz7hJqPIZekPRLm7Hde6fk0-DQnVetuArb_RRWNQ1RA=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Edgar Winter Group",
+      "lastName": "",
+      "group": true,
+      "name_ar": "إدغار وينتر جروب"
+    },
+    {
+      "firstName": "Wolf",
+      "lastName": "Parade",
+      "group": false,
+      "name_ar": "وولف باراد"
+    },
+    {
+      "firstName": "Joon",
+      "lastName": "Wolfsberg",
+      "group": false,
+      "name_ar": "جون وولفسبيرغ"
+    },
+    {
+      "firstName": "Bobby",
+      "lastName": "Womack",
+      "group": false,
+      "name_ar": "بوبي وومك"
+    },
+    {
+      "firstName": "Stevie",
+      "lastName": "Wonder",
+      "group": false,
+      "name_ar": "ستيفي وندر"
+    },
+    {
+      "firstName": "Hawksley",
+      "lastName": "Workman",
+      "group": false,
+      "name_ar": "هوكسلي ووركمان"
+    },
+    {
+      "firstName": "World",
+      "lastName": "Party",
+      "group": false,
+      "name_ar": "وورلد بارتي"
+    },
+    {
+      "firstName": "X",
+      "lastName": "",
+      "group": false,
+      "name_ar": "إكس"
+    },
+    {
+      "firstName": "XTC",
+      "lastName": "",
+      "group": false,
+      "name_ar": "إكس تي سي"
+    },
+    {
+      "firstName": "The",
+      "lastName": "xx",
+      "group": false,
+      "name_ar": "ذا إكس إكس"
+    },
+    {
+      "firstName": "Yungblud",
+      "lastName": "",
+      "group": false,
+      "name_ar": "يونغبلود"
+    },
+    {
+      "firstName": "Rachael",
+      "lastName": "Yamagata",
+      "group": false,
+      "name_ar": "راشيل ياماغاتا"
+    },
+    {
+      "firstName": "The",
+      "lastName": "Yardbirds",
+      "group": false,
+      "name_ar": "ذا ياردبيردز"
+    },
+    {
+      "firstName": "Yeah Yeah Yeahs",
+      "lastName": "",
+      "group": true,
+      "name_ar": "ياه ياه ياهز"
+    },
+    {
+      "firstName": "Yes",
+      "lastName": "",
+      "group": false,
+      "name_ar": "يس"
+    },
+    {
+      "firstName": "Pete",
+      "lastName": "Yorn",
+      "group": false,
+      "name_ar": "بيت يورن"
+    },
+    {
+      "firstName": "Young the Giant",
+      "lastName": "",
+      "group": true,
+      "name_ar": "يونغ ذا جاينت"
+    },
+    {
+      "firstName": "Neil",
+      "lastName": "Young",
+      "group": false,
+      "name_ar": "نيل يونغ"
+    },
+    {
+      "firstName": "Hindi",
+      "lastName": "Zahra",
+      "group": false,
+      "name_ar": "هندي زهرة"
+    },
+    {
+      "firstName": "Warren",
+      "lastName": "Zevon",
+      "group": false,
+      "name_ar": "وارن زيفون"
+    },
+    {
+      "firstName": "Zucchero",
+      "lastName": "Fornaciari",
+      "group": false,
+      "name_ar": "زوكيرو فورناسياري"
+    },
+    {
+      "firstName": "ZZ",
+      "lastName": "Top",
+      "group": false,
+      "name_ar": "زد زد توب"
+    },
+    {
+      "firstName": "The Pretty Reckless",
+      "lastName": "",
+      "name_ar": "ذا بريتي ريكليس",
+      "group": true,
+      "image": "https://yt3.googleusercontent.com/V10bK7uy5V2uzIpYCWNjYTBS_og95nc2wlyie5ImqM7O5HaOlEeeVAK-dujlxn2wUgd_j_Ug3A=s160-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "firstName": "Young",
+      "lastName": "Alii",
+      "name_ar": "يونغ علي",
+      "alt": "Ali Lari",
+      "group": false
+    },
+    {
+      "firstName": "Poppy",
+      "lastName": "",
+      "name_ar": "بوبي",
+      "group": false,
+      "image": "https://yt3.googleusercontent.com/lAx1D3ZC8Ok2vKOKHnU3IAFOZMoKTFLm4h2E2Uh3b24hxP5xafYAfsjOYqzZ6Vt0RAjjttiqFg=s160-c-k-c0x00ffffff-no-rj"
+    }
+  ]
+}

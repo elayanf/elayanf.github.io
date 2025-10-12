@@ -1,0 +1,599 @@
+:root {
+    --primary-bg: #1a1a1a;
+    --secondary-bg: #f5f5f5;
+    --text-primary: #ffffff;
+    --text-secondary: #cccccc;
+    --accent-coral: #ff6b6b;
+    --accent-lavender: #b19cd9;
+    --accent-sage: #9caf88;
+    --accent-rose: #d4a5a5;
+    --card-bg: #ffffff;
+    --shadow: rgba(0, 0, 0, 0.1);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Lato", sans-serif;
+    background: var(--primary-bg);
+    color: var(--text-primary);
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    background: rgba(26, 26, 26, 0.95);
+    backdrop-filter: blur(10px);
+    padding: 1rem 2rem;
+    transition: all 0.3s ease;
+}
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.logo {
+    font-family: 'Lato', serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--accent-coral);
+    text-decoration: none;
+}
+.nav-links {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+}
+.nav-links a {
+    color: var(--text-primary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+    position: relative;
+}
+.nav-links a:hover {
+    color: var(--accent-coral);
+}
+.nav-links a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    bottom: -4px;
+    left: 0;
+    background-color: var(--accent-coral);
+    transition: width 0.3s ease;
+}
+.nav-links a:hover::after {
+    width: 100%;
+}
+.main-card {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+}
+.main-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('../resources/hero-bg.png') center/cover;
+    filter: blur(8px) brightness(0.6);
+    z-index: 1;
+}
+.main-card-content {
+    text-align: center;
+    z-index: 2;
+    position: relative;
+    max-width: 800px;
+    padding: 0 2rem;
+}
+.main-card-title {
+    font-size: clamp(2rem, 4vw, 4rem);
+    font-weight: 700;
+    margin-bottom: 1rem;
+    background: linear-gradient(45deg, var(--accent-coral), var(--accent-lavender));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.main-card-subtitle {
+    font-size: clamp(1rem, 2.5vw, 1.5rem);
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+}
+.btn {
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+    text-align: center;
+}
+.btn-primary {
+    background: var(--accent-coral);
+    color: white;
+}
+.btn-primary:hover {
+    background: #ff5252;
+    transform: translateY(-2px);
+    box-shadow: 0 10px 25px rgba(255, 107, 107, 0.4);
+}
+.section-title {
+    font-family: 'Lato', serif;
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: var(--text-primary);
+}
+.artist-search {
+    padding: 5rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+.search-container {
+    position: relative;
+    max-width: 600px;
+    margin: 0 auto 4rem;
+}
+.artist-input {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 50px;
+    background: var(--card-bg);
+    color: var(--primary-bg);
+    box-shadow: 0 10px 30px var(--shadow);
+    transition: all 0.3s ease;
+}
+.artist-input:focus {
+    outline: none;
+    box-shadow: 0 10px 40px rgba(255, 107, 107, 0.3);
+    transform: translateY(-2px);
+}
+.artist-results {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: var(--card-bg);
+    border-radius: 20px;
+    box-shadow: 0 10px 30px var(--shadow);
+    max-height: 300px;
+    overflow-y: auto;
+    z-index: 100;
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+.artist-results.active {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: all;
+}
+.artist-result-item {
+    padding: 1rem 1.5rem;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    color: var(--primary-bg);
+}
+.artist-result-item:hover {
+    background: var(--secondary-bg);
+}
+.artist-image {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.artist-choose {
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(177, 156, 217, 0.1));
+    text-align: center;
+}
+.artist-header {
+    padding: 8rem 2rem 4rem;
+    background: linear-gradient(135deg, rgba(255, 107, 107, 0.1), rgba(177, 156, 217, 0.1));
+    position: relative;
+    overflow: hidden;
+}
+
+.artist-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 2rem;
+    align-items: center;
+}
+
+.artist-page-image {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    object-fit: cover;
+    box-shadow: 0 20px 50px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease;
+}
+
+.artist-page-image:hover {
+    transform: scale(1.05);
+}
+
+.song-info h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    background: linear-gradient(45deg, var(--accent-coral), var(--accent-lavender));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.artist-links {
+    display: flex;
+    gap: 1rem;
+}
+
+.artist-genre {
+    font-size: 1.2rem;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+
+.song-lyric {
+    font-size: 1rem;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    font-style: italic;
+}
+.song-title {
+    position: relative;
+    width: 65%;
+    margin-bottom: 1rem;
+  }
+  .song-title h1 {
+    padding-right: 1.5rem;
+    margin: 0;
+  }
+  .refresh-btn {
+    padding: 0.75rem 1rem;
+    border: 2px solid var(--accent-coral);
+    border-radius: 25px;
+    color: var(--accent-coral);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    margin: 0;
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-align: center;
+  }
+  .refresh-btn:hover{
+    background: var(--accent-coral);
+    color: white;
+  }
+
+.link-btn {
+    padding: 0.75rem 1.5rem;
+    border: 2px solid var(--accent-coral);
+    border-radius: 25px;
+    color: var(--accent-coral);
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+.link-btn:hover {
+    background: var(--accent-coral);
+    color: white;
+    transform: translateY(-2px);
+}
+.back-btn {
+    position: fixed;
+    top: 6rem;
+    left: 2rem;
+    z-index: 100;
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 50px;
+    padding: 0.75rem 1.5rem;
+    color: var(--text-primary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.back-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    transform: translateY(-2px);
+}
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+}
+
+.loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgba(255, 255, 255, 0.3);
+    border-radius: 50%;
+    border-top-color: var(--accent-coral);
+    animation: spin 1s ease-in-out infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+html[dir="rtl"] .artist-container {
+  display: flex;
+  flex-direction: row-reverse;
+  margin-inline: auto;
+  width: 100%;
+    max-width: 1000px;
+}
+
+html[dir="rtl"] #artistImage {
+    left: 0.5%;
+    position: relative;
+}
+
+html[dir="rtl"] .song-info {
+  text-align: right;
+}
+
+html[dir="rtl"] .song-title {
+  position: relative;
+}
+
+html[dir="rtl"] .song-title h1 {
+  margin: 0;
+  padding-right: 0;
+  padding-left: 3rem;
+}
+
+html[dir="rtl"] .refresh-btn {
+  position: absolute;
+  left: 0; 
+  right: auto;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+html[dir="rtl"] #songName {
+    margin-bottom: -2.5%;
+    margin-left: -33%;
+}
+
+html[dir="rtl"] .artist-genre {
+  margin: 0;
+}
+
+html[dir="rtl"] .artist-links {
+  justify-content: flex-end;
+}
+html[dir="rtl"] .back-btn {
+    inset-inline-start: auto;
+    inset-inline-end: 16px;
+    float: none;
+    margin: 0;
+  }
+  html[dir="rtl"] .back-btn {
+    top: 6rem !important;
+    left: auto !important;
+    right: 2rem !important;
+  }
+
+footer {
+    text-align: center;
+    padding: 15px;
+    font-size: 0.9em;
+    color: #c4c4c4;
+    background-color: var(--primary-bg);
+}
+.fade-in {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.6s ease;
+}
+
+.fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+@media (max-width: 768px) {
+    /* .nav-links {
+        display: none;
+    } */
+    html[dir="rtl"] .logo {
+        line-height: 1.5;
+    }
+
+    .main-card-content {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+    .nav-links a:hover {
+        color: initial;
+    }
+
+    .nav-links a::after {
+        width: 0;
+        transition: none;
+    }
+
+    .nav-links a:hover::after {
+        width: 0;
+    }
+
+    html[dir="rtl"] .song-info {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        line-height: 1.5;
+    }
+
+    html[dir="rtl"] .artist-links {
+        display: flex;
+        flex-direction: column;
+    }
+
+    html[dir="rtl"] .artist-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    html[dir="rtl"] .section-title {
+        line-height: 1.5;
+    }
+
+    html[dir="rtl"] .back-btn {
+        display: none;
+    }
+
+    html[dir="rtl"] #you-chose {
+        margin-top: 0;
+        font-size: 1.2rem;
+    }
+
+    html[dir="rtl"] #songName {
+        font-size: 2.5rem;
+        line-height: 1.7;
+        margin-bottom: -1%;
+        margin-right: 0;
+        padding-left: 1rem;
+        margin-top: 10%;
+    }
+
+    html[dir="rtl"] .refresh-btn {
+        transform: translateY(-25%);
+    }
+
+    html[dir="rtl"] #artistImage {
+        left: 0rem;
+        width: 50%;
+        height: 50%;
+        order: -1;
+        margin: -8%;
+        margin-top: -1%;
+    }
+
+    html[dir="rtl"] .song-lyric {
+        margin-bottom: 1.5rem;
+    }
+
+    #randomizeAH {
+        display: block;
+    }
+
+    .song-info {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        line-height: 1.5;
+    }
+
+    .artist-links {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .artist-container {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section-title {
+        line-height: 1.5;
+    }
+
+    .back-btn {
+        display: none;
+    }
+
+    #you-chose {
+        margin-top: 5%;
+        font-size: 1.2rem;
+    }
+
+    #songName {
+        font-size: 2.5rem;
+        line-height: 1.7;
+        margin-bottom: -1%;
+        margin-right: -29%;
+    }
+
+    .refresh-btn {
+        transform: translate(225%, -40%);
+    }
+
+    #artistImage {
+        left: 0rem;
+        width: 50%;
+        height: 50%;
+    }
+
+    .main-card::before {
+        width: 400%;
+    }
+
+    .main-card-title {
+        font-size: 3rem;
+    }
+
+    .artists-grid {
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1rem;
+    }
+
+    .search-section {
+        padding: 3rem 1rem;
+    }
+
+}
