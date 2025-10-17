@@ -70,6 +70,7 @@
                 constructor() {
                     this.artists = [];
                     this.abdelhalimSongs = [];
+                    this.currSongs = [];
                     this.phrases = [
                         name => `حقاً؟ ${name}؟ استمع لهذا بدلا.`,
                         name => `هل ترغب بالاستماع إلى ${name}؟ ماذا لو استمعت إلى هذا بدلاً من ذلك؟`,
@@ -109,6 +110,7 @@
                     const ah_response = await fetch('/resources/abdelhalim.json')
                     const ah_data = await ah_response.json()
                     this.abdelhalimSongs = ah_data.songs;
+                    this.currSongs = ah_data.songs;
                 }
 
                 loadArtist() {
@@ -142,7 +144,12 @@
                 }
 
                 getAbdelHalim() {
-                    var song = this.abdelhalimSongs[Math.floor(Math.random()*this.abdelhalimSongs.length)];
+                    var song = this.currSongs[Math.floor(Math.random()*this.currSongs.length)];
+                    if (this.currSongs.length > 1){
+                        this.currSongs = this.currSongs.filter(s => s !== song);
+                    } else {
+                        this.currSongs = this.abdelhalimSongs;
+                    }
 
                     const artistImage = document.getElementById('artistImage');
                     const songName = document.getElementById('songName');
